@@ -1,97 +1,105 @@
-Wallpaper CDN
+# Wallpaper CDN
 
 A lightweight wallpaper CDN powered by GitHub.
 
-This repository hosts wallpapers organized into categories and automatically generates a JSON index that any application can consume. It requires no backend server or database—GitHub and GitHub Actions handle everything.
+This repository hosts wallpapers organized into categories and automatically generates a JSON index (`images.json`) that any application can consume. It requires no backend server or database—GitHub and GitHub Actions handle everything automatically.
 
-Features
+## ✨ Features
 
 - 📁 Organized wallpapers by category
-- 🖼️ Direct image URLs
-- 📄 Automatically generated "images.json"
-- 🔄 Updates automatically when wallpapers are added or modified
-- 🌐 Can be used by Android, iOS, Flutter, React Native, Web, Desktop, or any other application
+- 🖼️ Direct image URLs via GitHub Raw
+- 📄 Automatically generated `images.json`
+- 🔄 Auto-updates whenever wallpapers are added, removed, or modified
+- 🌐 Works with Android, iOS, Flutter, React Native, Web, Desktop, and more
+- 🚀 No backend or database required
 - 🆓 Free hosting using GitHub
 
 ---
 
-Repository Structure
+## 📂 Repository Structure
 
-wallpapers/
-├── Anime/
-│   ├── gojo.jpg
-│   └── naruto.png
-├── Nature/
-│   ├── mountain.jpg
-│   └── forest.webp
-├── Space/
-├── Quotes/
-└── ...
+```text
+.
+├── wallpapers
+│   ├── Anime
+│   ├── Nature
+│   ├── Quotes
+│   ├── Space
+│   └── ...
+├── images.json
+└── .github
+    └── workflows
+        └── generate-image-json.yml
+```
 
-Each folder represents a wallpaper category.
-
----
-
-How It Works
-
-This repository uses GitHub Actions to automatically keep the wallpaper index up to date.
-
-Whenever a change is pushed to the "wallpapers/" directory:
-
-1. The workflow scans every category.
-2. It detects supported image files.
-3. It generates a new "images.json".
-4. The updated JSON file is committed back to the repository automatically.
-
-No manual editing of "images.json" is required.
+Each folder inside `wallpapers/` represents a wallpaper category.
 
 ---
 
-Generated JSON
+## ⚙️ How It Works
+
+Whenever changes are pushed to the `wallpapers/` directory:
+
+1. GitHub Actions automatically starts.
+2. Every category is scanned.
+3. All supported image files are detected.
+4. A new `images.json` is generated.
+5. The updated JSON file is automatically committed back to the repository.
+
+This means the index always stays synchronized with the wallpapers.
+
+---
+
+## 📄 JSON Format
 
 Example:
 
+```json
 [
   {
-    "category": "Anime",
+    "category": "Nature",
     "files": [
       {
-        "name": "gojo.jpg",
-        "url": "https://raw.githubusercontent.com/<owner>/<repo>/main/wallpapers/Anime/gojo.jpg"
+        "name": "mountain.jpg",
+        "url": "https://raw.githubusercontent.com/<owner>/<repository>/main/wallpapers/Nature/mountain.jpg"
       }
     ]
   }
 ]
+```
 
-Structure
+### Fields
 
-Field| Description
-"category"| Wallpaper category
-"files"| Wallpapers inside the category
-"name"| Original image filename
-"url"| Direct image URL
+| Field | Description |
+|-------|-------------|
+| `category` | Wallpaper category name |
+| `files` | Wallpapers inside the category |
+| `name` | Original filename |
+| `url` | Direct image URL |
 
 ---
 
-Using the CDN
+## 🚀 Using the CDN
 
-1. Download the JSON index
+### 1. Fetch the JSON index
 
+```
 https://raw.githubusercontent.com/<owner>/<repository>/main/images.json
+```
 
-2. Parse the JSON
+### 2. Parse the JSON
 
-Read all available categories and wallpapers.
+Read the available categories and wallpapers.
 
-3. Load wallpapers
+### 3. Load the images
 
-Use the provided image URLs directly in your application.
+Use the `url` field directly to display or download wallpapers.
 
 No authentication or API key is required.
 
 ---
 
-Supported Formats
+## 🖼️ Supported Image Formats
 
 - JPG
 - JPEG
@@ -100,30 +108,32 @@ Supported Formats
 
 ---
 
-Workflow
+## 🔄 Workflow
 
+```text
 Push wallpapers
-       │
-       ▼
+      │
+      ▼
 GitHub Action runs
-       │
-       ▼
-Scan all categories
-       │
-       ▼
+      │
+      ▼
+Scan wallpaper folders
+      │
+      ▼
 Generate images.json
-       │
-       ▼
+      │
+      ▼
 Commit updated JSON
-       │
-       ▼
-Applications fetch latest data
+      │
+      ▼
+Applications fetch latest wallpapers
+```
 
 ---
 
-Integrating into Your App
+## 📱 Compatible Platforms
 
-The repository is platform-independent and can be used with:
+This repository can be used by any application capable of making HTTP requests, including:
 
 - Android
 - iOS
@@ -131,24 +141,20 @@ The repository is platform-independent and can be used with:
 - React Native
 - Web Applications
 - Desktop Applications
-- Any platform capable of making HTTP requests
-
-Simply fetch "images.json", parse it, and display wallpapers using the provided URLs.
+- Any custom application
 
 ---
 
-Contributing
+## 🤝 Contributing
 
-To add wallpapers:
+1. Add images to an existing category inside `wallpapers/`, or create a new category.
+2. Commit and push your changes.
+3. GitHub Actions will automatically regenerate `images.json`.
 
-1. Create or choose a category inside "wallpapers/".
-2. Add supported image files.
-3. Commit and push your changes.
-
-The JSON index will be regenerated automatically by GitHub Actions.
+No manual editing of the JSON file is necessary.
 
 ---
 
-License
+## 📜 License
 
-Please ensure you have the rights to distribute any wallpapers you upload. Contributors are responsible for the licensing of their content.
+Please ensure you have the legal right to distribute any wallpapers you contribute. Contributors are responsible for the licensing and ownership of uploaded content.
