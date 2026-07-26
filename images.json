@@ -1,10 +1,19 @@
 [
   {
+    "category": "Anime",
+    "files": [
+      {
+        "name": "gojo_satoru.jpg",
+        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/wallpapers/Anime/gojo_satoru.jpg"
+      }
+    ]
+  },
+  {
     "category": "Quotes",
     "files": [
       {
         "name": "images.jpg",
-        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/walliq-wallpapers/main/wallpapers/Quotes/images.jpg"
+        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/wallpapers/Quotes/images.jpg"
       }
     ]
   },
@@ -13,11 +22,11 @@
     "files": [
       {
         "name": "pexels-jack-redgate-333633-2929211.jpg",
-        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/walliq-wallpapers/main/wallpapers/nature/pexels-jack-redgate-333633-2929211.jpg"
+        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/wallpapers/nature/pexels-jack-redgate-333633-2929211.jpg"
       },
       {
         "name": "pexels-todd-trapani-488382-2754200.jpg",
-        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/walliq-wallpapers/main/wallpapers/nature/pexels-todd-trapani-488382-2754200.jpg"
+        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/wallpapers/nature/pexels-todd-trapani-488382-2754200.jpg"
       }
     ]
   },
@@ -26,16 +35,7 @@
     "files": [
       {
         "name": "Professional Iphone Wallpaper.jpg",
-        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/walliq-wallpapers/main/wallpapers/abstract/Professional Iphone Wallpaper.jpg"
-      }
-    ]
-  },
-  {
-    "category": "Anime",
-    "files": [
-      {
-        "name": "gojo_satoru.jpg",
-        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/walliq-wallpapers/main/wallpapers/Anime/gojo_satoru.jpg"
+        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/wallpapers/abstract/Professional Iphone Wallpaper.jpg"
       }
     ]
   },
@@ -44,7 +44,11 @@
     "files": [
       {
         "name": "images.jpg",
-        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/walliq-wallpapers/main/wallpapers/Space/images.jpg"
+        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/wallpapers/Space/images.jpg"
+      },
+      {
+        "name": "scenic-view-rocky-mountain-evening.jpg",
+        "url": "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/wallpapers/Space/scenic-view-rocky-mountain-evening.jpg"
       }
     ]
   }
