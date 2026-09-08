@@ -1,17 +1,27 @@
-# Wallpaper CDN (imgjson)
+# Wallpaper CDN
 
-A dead-simple wallpaper CDN powered by GitHub.
+A lightweight wallpaper CDN powered by GitHub.
 
 Drop images into folders → push → get a ready-to-use JSON index.  
 No backend. No database. No setup. Just plug and play.
 
+## ✨ Features
+
+- 📁 Organized wallpapers by category
+- 🖼️ Fast image delivery via jsDelivr CDN
+- 📄 Automatically generated `images.json`
+- 🔄 Auto-updates whenever wallpapers are added or removed
+- 🌐 Works with Android, iOS, Flutter, React Native, Web, Desktop
+- 🚀 No backend or database required
+- 🆓 Completely free
+
 ---
 
-## Quick Start (for apps)
+## 🚀 Quick Start
 
-### 1. Get the JSON
+### 1. Fetch the JSON
 
-**Recommended (faster, global CDN):**
+**Recommended (faster):**
 ```
 https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/images.json
 ```
@@ -21,10 +31,10 @@ https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/images.json
 https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/images.json
 ```
 
-### 2. Use it
+### 2. Use it in your app
 
 ```js
-// Plain JavaScript / Web
+// JavaScript / Web
 fetch("https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/images.json")
   .then(res => res.json())
   .then(data => console.log(data));
@@ -46,7 +56,30 @@ const response = await fetch(
 const data = await response.json();
 ```
 
-The JSON looks like this:
+---
+
+## 📂 Repository Structure
+
+```text
+.
+├── wallpapers/
+│   ├── Anime/
+│   ├── Abstract/
+│   ├── Nature/
+│   ├── Quotes/
+│   ├── Space/
+│   └── ...
+├── images.json
+└── .github/
+    └── workflows/
+        └── generate-image-json.yml
+```
+
+Each folder inside `wallpapers/` is a category.
+
+---
+
+## 📄 JSON Format
 
 ```json
 [
@@ -62,69 +95,28 @@ The JSON looks like this:
 ]
 ```
 
-Just use the `url` field directly in your `Image` / `NetworkImage` / etc.
+| Field      | Description              |
+|------------|--------------------------|
+| `category` | Wallpaper category name  |
+| `files`    | List of wallpapers       |
+| `name`     | Filename                 |
+| `url`      | Direct image URL         |
 
 ---
 
-## Features
-
-- Organized by category folders
-- Auto-generated `images.json`
-- Fast delivery via jsDelivr CDN
-- Works with any platform that can make HTTP requests
-- Completely free
-- Zero configuration for users of the CDN
-
----
-
-## Repository Structure
-
-```text
-.
-├── wallpapers/
-│   ├── Anime/
-│   ├── Abstract/
-│   ├── Nature/
-│   ├── Quotes/
-│   ├── Space/
-│   └── ...
-├── images.json          ← auto-generated
-└── .github/workflows/
-    └── generate-image-json.yml
-```
-
-Each folder inside `wallpapers/` is a category.
-
----
-
-## How it works
+## ⚙️ How It Works
 
 1. You add or remove images inside `wallpapers/`
 2. You push to GitHub
 3. GitHub Action runs automatically
-4. It scans every category and builds a fresh `images.json`
-5. The updated JSON is committed back
+4. It scans every category and generates a fresh `images.json`
+5. The updated JSON is committed back to the repository
 
-Your apps always get the latest list.
-
----
-
-## Adding new wallpapers (for you)
-
-1. Create a new folder under `wallpapers/` (or use an existing one)
-2. Drop your images (`.jpg`, `.jpeg`, `.png`, `.webp`)
-3. Commit and push
-
-That’s it. No manual JSON editing needed.
-
-**Tips for clean results:**
-- Use Title Case for folder names (`Nature`, `Anime`, `Abstract`)
-- Use kebab-case for filenames (`gojo-satoru.jpg`, `rocky-mountain-evening.jpg`)
-- Avoid spaces in filenames
+Your apps always receive the latest wallpapers.
 
 ---
 
-## Supported formats
+## 🖼️ Supported Image Formats
 
 - JPG / JPEG
 - PNG
@@ -132,8 +124,19 @@ That’s it. No manual JSON editing needed.
 
 ---
 
-## License
+## 🤝 Adding New Wallpapers
+
+1. Create a new folder under `wallpapers/` (or use an existing one)
+2. Drop your images inside it
+3. Commit and push
+
+GitHub Actions will automatically update `images.json`.  
+No manual editing required.
+
+---
+
+## 📜 License
 
 MIT
 
-Please only upload wallpapers you have the right to distribute.
+Please only upload wallpapers you have the legal right to distribute.
