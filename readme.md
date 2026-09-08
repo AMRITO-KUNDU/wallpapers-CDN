@@ -1,58 +1,52 @@
-# Wallpaper CDN
+# Wallpaper CDN (imgjson)
 
-A lightweight wallpaper CDN powered by GitHub.
+A dead-simple wallpaper CDN powered by GitHub.
 
-This repository hosts wallpapers organized into categories and automatically generates a JSON index (`images.json`) that any application can consume. It requires no backend server or database—GitHub and GitHub Actions handle everything automatically.
-
-## ✨ Features
-
-- 📁 Organized wallpapers by category
-- 🖼️ Direct image URLs via GitHub Raw
-- 📄 Automatically generated `images.json`
-- 🔄 Auto-updates whenever wallpapers are added, removed, or modified
-- 🌐 Works with Android, iOS, Flutter, React Native, Web, Desktop, and more
-- 🚀 No backend or database required
-- 🆓 Free hosting using GitHub
+Drop images into folders → push → get a ready-to-use JSON index.  
+No backend. No database. No setup. Just plug and play.
 
 ---
 
-## 📂 Repository Structure
+## Quick Start (for apps)
 
-```text
-.
-├── wallpapers
-│   ├── Anime
-│   ├── Nature
-│   ├── Quotes
-│   ├── Space
-│   └── ...
-├── images.json
-└── .github
-    └── workflows
-        └── generate-image-json.yml
+### 1. Get the JSON
+
+**Recommended (faster, global CDN):**
+```
+https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/images.json
 ```
 
-Each folder inside `wallpapers/` represents a wallpaper category.
+**Direct from GitHub:**
+```
+https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/images.json
+```
 
----
+### 2. Use it
 
-## ⚙️ How It Works
+```js
+// Plain JavaScript / Web
+fetch("https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/images.json")
+  .then(res => res.json())
+  .then(data => console.log(data));
+```
 
-Whenever changes are pushed to the `wallpapers/` directory:
+```dart
+// Flutter
+final response = await http.get(Uri.parse(
+  "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/images.json"
+));
+final data = jsonDecode(response.body);
+```
 
-1. GitHub Actions automatically starts.
-2. Every category is scanned.
-3. All supported image files are detected.
-4. A new `images.json` is generated.
-5. The updated JSON file is automatically committed back to the repository.
+```js
+// React Native
+const response = await fetch(
+  "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/images.json"
+);
+const data = await response.json();
+```
 
-This means the index always stays synchronized with the wallpapers.
-
----
-
-## 📄 JSON Format
-
-Example:
+The JSON looks like this:
 
 ```json
 [
@@ -60,101 +54,86 @@ Example:
     "category": "Nature",
     "files": [
       {
-        "name": "mountain.jpg",
-        "url": "https://raw.githubusercontent.com/<owner>/<repository>/main/wallpapers/Nature/mountain.jpg"
+        "name": "nature-mountain-lake.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/nature-mountain-lake.jpg"
       }
     ]
   }
 ]
 ```
 
-### Fields
-
-| Field | Description |
-|-------|-------------|
-| `category` | Wallpaper category name |
-| `files` | Wallpapers inside the category |
-| `name` | Original filename |
-| `url` | Direct image URL |
+Just use the `url` field directly in your `Image` / `NetworkImage` / etc.
 
 ---
 
-## 🚀 Using the CDN
+## Features
 
-### 1. Fetch the JSON index
-
-```
-https://raw.githubusercontent.com/<owner>/<repository>/main/images.json
-```
-
-### 2. Parse the JSON
-
-Read the available categories and wallpapers.
-
-### 3. Load the images
-
-Use the `url` field directly to display or download wallpapers.
-
-No authentication or API key is required.
+- Organized by category folders
+- Auto-generated `images.json`
+- Fast delivery via jsDelivr CDN
+- Works with any platform that can make HTTP requests
+- Completely free
+- Zero configuration for users of the CDN
 
 ---
 
-## 🖼️ Supported Image Formats
+## Repository Structure
 
-- JPG
-- JPEG
+```text
+.
+├── wallpapers/
+│   ├── Anime/
+│   ├── Abstract/
+│   ├── Nature/
+│   ├── Quotes/
+│   ├── Space/
+│   └── ...
+├── images.json          ← auto-generated
+└── .github/workflows/
+    └── generate-image-json.yml
+```
+
+Each folder inside `wallpapers/` is a category.
+
+---
+
+## How it works
+
+1. You add or remove images inside `wallpapers/`
+2. You push to GitHub
+3. GitHub Action runs automatically
+4. It scans every category and builds a fresh `images.json`
+5. The updated JSON is committed back
+
+Your apps always get the latest list.
+
+---
+
+## Adding new wallpapers (for you)
+
+1. Create a new folder under `wallpapers/` (or use an existing one)
+2. Drop your images (`.jpg`, `.jpeg`, `.png`, `.webp`)
+3. Commit and push
+
+That’s it. No manual JSON editing needed.
+
+**Tips for clean results:**
+- Use Title Case for folder names (`Nature`, `Anime`, `Abstract`)
+- Use kebab-case for filenames (`gojo-satoru.jpg`, `rocky-mountain-evening.jpg`)
+- Avoid spaces in filenames
+
+---
+
+## Supported formats
+
+- JPG / JPEG
 - PNG
 - WebP
 
 ---
 
-## 🔄 Workflow
+## License
 
-```text
-Push wallpapers
-      │
-      ▼
-GitHub Action runs
-      │
-      ▼
-Scan wallpaper folders
-      │
-      ▼
-Generate images.json
-      │
-      ▼
-Commit updated JSON
-      │
-      ▼
-Applications fetch latest wallpapers
-```
+MIT
 
----
-
-## 📱 Compatible Platforms
-
-This repository can be used by any application capable of making HTTP requests, including:
-
-- Android
-- iOS
-- Flutter
-- React Native
-- Web Applications
-- Desktop Applications
-- Any custom application
-
----
-
-## 🤝 Contributing
-
-1. Add images to an existing category inside `wallpapers/`, or create a new category.
-2. Commit and push your changes.
-3. GitHub Actions will automatically regenerate `images.json`.
-
-No manual editing of the JSON file is necessary.
-
----
-
-## 📜 License
-
-Please ensure you have the legal right to distribute any wallpapers you contribute. Contributors are responsible for the licensing and ownership of uploaded content.
+Please only upload wallpapers you have the right to distribute.

@@ -6,14 +6,14 @@ on:
       - "wallpapers/**"
 
 permissions:
-  contents: write    # <── REQUIRED for git push
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     - name: Generate JSON
       run: |
@@ -26,15 +26,16 @@ jobs:
 
         result = []
 
-        for category in os.listdir(root):
+        for category in sorted(os.listdir(root)):
             category_path = os.path.join(root, category)
             if not os.path.isdir(category_path):
                 continue
 
-            base = f"https://raw.githubusercontent.com/{repo}/{branch}/{root}/{category}/"
+            # jsDelivr CDN (fast + global)
+            base = f"https://cdn.jsdelivr.net/gh/{repo}@{branch}/{root}/{category}/"
 
             files = []
-            for f in os.listdir(category_path):
+            for f in sorted(os.listdir(category_path)):
                 if f.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
                     files.append({
                         "name": f,
