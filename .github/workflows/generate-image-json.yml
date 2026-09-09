@@ -1,9 +1,12 @@
-name: Generate Image JSON
+name: Generate Wallpaper Data
 
 on:
   push:
     paths:
       - "wallpapers/**"
+      - "scripts/**"
+      - "package.json"
+      - "package-lock.json"
 
 permissions:
   contents: write
@@ -13,51 +16,85 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Generate JSON
-      run: |
-        python3 << 'EOF'
-        import os, json
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
 
-        root = "wallpapers"
-        repo = "${{ github.repository }}"
-        branch = "main"
+      - name: Install dependencies
+        run: npm install
 
-        result = []
+      - name: Generate thumbnails
+        run: npm run generate-thumbnails
 
-        for category in sorted(os.listdir(root)):
-            category_path = os.path.join(root, category)
-            if not os.path.isdir(category_path):
-                continue
+      - name: Generate JSON
+        run: |
+          python3 << 'EOF'
+          import os
+          import json
 
-            # jsDelivr CDN (fast + global)
-            base = f"https://cdn.jsdelivr.net/gh/{repo}@{branch}/{root}/{category}/"
+          root = "wallpapers"
+          repo = "${{ github.repository }}"
+          branch = "main"
 
-            files = []
-            for f in sorted(os.listdir(category_path)):
-                if f.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
-                    files.append({
-                        "name": f,
-                        "url": base + f
-                    })
+          result = []
 
-            if files:
-                result.append({
-                    "category": category,
-                    "files": files
-                })
+          for category in sorted(os.listdir(root)):
+              category_path = os.path.join(root, category)
 
-        with open("images.json", "w") as out:
-            json.dump(result, out, indent=2)
+              if not os.path.isdir(category_path):
+                  continue
 
-        print("✔ Generated images.json with", len(result), "categories.")
-        EOF
+              base = f"https://cdn.jsdelivr.net/gh/{repo}@{branch}/{root}/{category}/"
+              thumbnail_base = f"https://cdn.jsdelivr.net/gh/{repo}@{branch}/thumbnails/{category}/"
 
-    - name: Commit changes
-      run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git add images.json
-        git commit -m "Auto-update images.json" || echo "No changes to commit"
-        git push
+              files = []
+
+              for f in sorted(os.listdir(category_path)):
+                  if f.lower().endswith(
+                      (".jpg", ".jpeg", ".png", ".webp")
+                  ):
+                      files.append({
+                          "name": f,
+                          "url": base + f,
+                          "thumbnail": (
+                              thumbnail_base
+                              + os.path.splitext(f)[0]
+                              + ".webp"
+                          )
+                      })
+
+              if files:
+                  result.append({
+                      "category": category,
+                      "files": files
+                  })
+
+          with open("images.json", "w") as out:
+              json.dump(result, out, indent=2)
+
+          print(
+              "✔ Generated images.json with",
+              len(result),
+              "categories."
+          )
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add images.json
+          git add thumbnails/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update wallpaper data"
+            git push
+          fi
