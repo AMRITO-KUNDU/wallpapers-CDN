@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "generate-thumbnails": "node scripts/generate-thumbnails.js"
+  },
+  "dependencies": {
+    "sharp": "^0.34.3"
+  }
+}
