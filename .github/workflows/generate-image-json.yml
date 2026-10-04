@@ -30,57 +30,9 @@ jobs:
         run: npm run generate-thumbnails
 
       - name: Generate JSON
-        run: |
-          python3 << 'EOF'
-          import os
-          import json
-
-          root = "wallpapers"
-          repo = "${{ github.repository }}"
-          branch = "main"
-
-          result = []
-
-          for category in sorted(os.listdir(root)):
-              category_path = os.path.join(root, category)
-
-              if not os.path.isdir(category_path):
-                  continue
-
-              base = f"https://cdn.jsdelivr.net/gh/{repo}@{branch}/{root}/{category}/"
-              thumbnail_base = f"https://cdn.jsdelivr.net/gh/{repo}@{branch}/thumbnails/{category}/"
-
-              files = []
-
-              for f in sorted(os.listdir(category_path)):
-                  if f.lower().endswith(
-                      (".jpg", ".jpeg", ".png", ".webp")
-                  ):
-                      files.append({
-                          "name": f,
-                          "url": base + f,
-                          "thumbnail": (
-                              thumbnail_base
-                              + os.path.splitext(f)[0]
-                              + ".webp"
-                          )
-                      })
-
-              if files:
-                  result.append({
-                      "category": category,
-                      "files": files
-                  })
-
-          with open("images.json", "w") as out:
-              json.dump(result, out, indent=2)
-
-          print(
-              "✔ Generated images.json with",
-              len(result),
-              "categories."
-          )
-          EOF
+        run: npm run generate-images-json
+        env:
+          GITHUB_BRANCH: main
 
       - name: Commit changes
         run: |

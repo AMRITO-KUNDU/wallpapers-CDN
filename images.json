@@ -1,62 +1,79 @@
 [
   {
-    "category": "Anime",
-    "files": [
-      {
-        "name": "gojo_satoru.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Anime/gojo_satoru.jpg",
-        "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Anime/gojo_satoru.webp"
-      }
-    ]
-  },
-  {
-    "category": "Quotes",
-    "files": [
-      {
-        "name": "images.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Quotes/images.jpg",
-        "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Quotes/images.webp"
-      }
-    ]
-  },
-  {
-    "category": "Space",
-    "files": [
-      {
-        "name": "images.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/images.jpg",
-        "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/images.webp"
-      },
-      {
-        "name": "scenic-view-rocky-mountain-evening.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/scenic-view-rocky-mountain-evening.jpg",
-        "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/scenic-view-rocky-mountain-evening.webp"
-      }
-    ]
-  },
-  {
+    "id": "abstract-professional-iphone-wallpaper",
+    "name": "Professional Iphone Wallpaper",
     "category": "abstract",
-    "files": [
-      {
-        "name": "Professional Iphone Wallpaper.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/abstract/Professional Iphone Wallpaper.jpg",
-        "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/abstract/Professional Iphone Wallpaper.webp"
-      }
-    ]
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/abstract/Professional Iphone Wallpaper.jpg",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/abstract/Professional Iphone Wallpaper.webp",
+    "width": 736,
+    "height": 1308,
+    "orientation": "portrait",
+    "format": "jpeg"
   },
   {
+    "id": "anime-gojo-satoru",
+    "name": "Gojo Satoru",
+    "category": "anime",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Anime/gojo_satoru.jpg",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Anime/gojo_satoru.webp",
+    "width": 1080,
+    "height": 1350,
+    "orientation": "portrait",
+    "format": "jpeg"
+  },
+  {
+    "id": "nature-pexels-jack-redgate-333633-2929211",
+    "name": "Pexels Jack Redgate 333633 2929211",
     "category": "nature",
-    "files": [
-      {
-        "name": "pexels-jack-redgate-333633-2929211.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/nature/pexels-jack-redgate-333633-2929211.jpg",
-        "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/nature/pexels-jack-redgate-333633-2929211.webp"
-      },
-      {
-        "name": "pexels-todd-trapani-488382-2754200.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/nature/pexels-todd-trapani-488382-2754200.jpg",
-        "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/nature/pexels-todd-trapani-488382-2754200.webp"
-      }
-    ]
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/nature/pexels-jack-redgate-333633-2929211.jpg",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/nature/pexels-jack-redgate-333633-2929211.webp",
+    "width": 2912,
+    "height": 3640,
+    "orientation": "portrait",
+    "format": "jpeg"
+  },
+  {
+    "id": "nature-pexels-todd-trapani-488382-2754200",
+    "name": "Pexels Todd Trapani 488382 2754200",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/nature/pexels-todd-trapani-488382-2754200.jpg",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/nature/pexels-todd-trapani-488382-2754200.webp",
+    "width": 2401,
+    "height": 3598,
+    "orientation": "portrait",
+    "format": "jpeg"
+  },
+  {
+    "id": "quotes-images",
+    "name": "Images",
+    "category": "quotes",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Quotes/images.jpg",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Quotes/images.webp",
+    "width": 168,
+    "height": 300,
+    "orientation": "portrait",
+    "format": "jpeg"
+  },
+  {
+    "id": "space-images",
+    "name": "Images",
+    "category": "space",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/images.jpg",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/images.webp",
+    "width": 168,
+    "height": 300,
+    "orientation": "portrait",
+    "format": "jpeg"
+  },
+  {
+    "id": "space-scenic-view-rocky-mountain-evening",
+    "name": "Scenic View Rocky Mountain Evening",
+    "category": "space",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/scenic-view-rocky-mountain-evening.jpg",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/scenic-view-rocky-mountain-evening.webp",
+    "width": 3648,
+    "height": 5472,
+    "orientation": "portrait",
+    "format": "jpeg"
   }
 ]

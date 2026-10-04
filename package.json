@@ -1,7 +1,8 @@
 {
   "private": true,
   "scripts": {
-    "generate-thumbnails": "node scripts/generate-thumbnails.js"
+    "generate-thumbnails": "node scripts/generate-thumbnails.js",
+    "generate-images-json": "node scripts/generate-images-json.js"
   },
   "dependencies": {
     "sharp": "^0.34.3"
