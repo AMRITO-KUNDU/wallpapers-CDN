@@ -176,10 +176,27 @@ export function categorySamples(groups: CategoryGroup[]): CategorySample[] {
 
 function parseGroups(data: unknown): CategoryGroup[] {
   if (!Array.isArray(data)) return [];
-  const groups: CategoryGroup[] = [];
+
+  const grouped = new Map<string, WallpaperFile[]>();
+
   for (const entry of data) {
     if (!entry || typeof entry !== "object") continue;
     const record = entry as Record<string, unknown>;
+
+    const category = typeof record.category === "string" ? record.category.trim() : "";
+    const url = typeof record.url === "string" ? record.url.trim() : "";
+
+    if (category && url) {
+      const files = grouped.get(category) ?? [];
+      files.push({
+        name: typeof record.name === "string" && record.name ? record.name : url.split("/").pop() ?? "wallpaper",
+        url,
+        thumbnail: typeof record.thumbnail === "string" && record.thumbnail ? record.thumbnail : url,
+      });
+      grouped.set(category, files);
+      continue;
+    }
+
     if (typeof record.category !== "string" || !Array.isArray(record.files)) continue;
     const files: WallpaperFile[] = [];
     for (const file of record.files) {
@@ -192,9 +209,23 @@ function parseGroups(data: unknown): CategoryGroup[] {
         thumbnail: typeof item.thumbnail === "string" ? item.thumbnail : undefined,
       });
     }
-    if (files.length) groups.push({ category: record.category, files });
+    if (files.length) {
+      const merged = grouped.get(record.category) ?? [];
+      merged.push(...files);
+      grouped.set(record.category, merged);
+    }
   }
-  return groups;
+
+  return Array.from(grouped.entries())
+    .map(([category, files]) => ({
+      category,
+      files: files.filter((file, index, self) => {
+        const firstIndex = self.findIndex((candidate) => candidate.url === file.url);
+        return firstIndex === index;
+      }),
+    }))
+    .filter((group) => group.files.length > 0)
+    .sort((a, b) => a.category.localeCompare(b.category));
 }
 
 function toCatalog(groups: CategoryGroup[], source: Catalog["source"]): Catalog {

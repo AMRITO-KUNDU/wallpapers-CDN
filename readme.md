@@ -84,23 +84,30 @@ Each folder inside `wallpapers/` is a category.
 ```json
 [
   {
-    "category": "Nature",
-    "files": [
-      {
-        "name": "nature-mountain-lake.jpg",
-        "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/nature-mountain-lake.jpg"
-      }
-    ]
+    "id": "nature-pexels-jack-redgate-333633-2929211",
+    "name": "Pexels Jack Redgate 333633 2929211",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/nature/pexels-jack-redgate-333633-2929211.jpg",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/nature/pexels-jack-redgate-333633-2929211.webp",
+    "width": 2912,
+    "height": 3640,
+    "orientation": "portrait",
+    "format": "jpeg"
   }
 ]
 ```
 
-| Field      | Description              |
-|------------|--------------------------|
-| `category` | Wallpaper category name  |
-| `files`    | List of wallpapers       |
-| `name`     | Filename                 |
-| `url`      | Direct image URL         |
+| Field         | Description                                 |
+|---------------|---------------------------------------------|
+| `id`          | Stable wallpaper identifier                  |
+| `name`        | Human-readable wallpaper name               |
+| `category`    | Category slug (for example: `nature`)       |
+| `url`         | Direct full-size image URL                   |
+| `thumbnail`   | Direct thumbnail or WebP preview URL         |
+| `width`       | Image width in pixels                       |
+| `height`      | Image height in pixels                      |
+| `orientation` | `portrait`, `landscape`, or `square`        |
+| `format`      | Image format such as `jpeg` or `png`        |
 
 ---
 
@@ -109,7 +116,7 @@ Each folder inside `wallpapers/` is a category.
 1. You add or remove images inside `wallpapers/`
 2. You push to GitHub
 3. GitHub Action runs automatically
-4. It scans every category and generates a fresh `images.json`
+4. It scans every category, reads image metadata, and generates a fresh `images.json`
 5. The updated JSON is committed back to the repository
 
 Your apps always receive the latest wallpapers.
