@@ -34,6 +34,12 @@ jobs:
         env:
           GITHUB_BRANCH: main
 
+      # Fail the build instead of committing an index that violates the
+      # published contract (see SCHEMA.md). This is the guard that stops a
+      # silent breaking change from reaching clients.
+      - name: Validate generated JSON
+        run: node scripts/validate-images-json.js
+
       - name: Commit changes
         run: |
           git config user.name github-actions
