@@ -1318,6 +1318,34 @@
     ]
   },
   {
+    "id": "cities-a-temple-niche-from-the-lakshmi-narayan-temple-c-175571978",
+    "name": "A Temple Niche from the Lakshmi Narayan Temple, Chamba",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/a-temple-niche-from-the-lakshmi-narayan-temple-c-175571978.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/a-temple-niche-from-the-lakshmi-narayan-temple-c-175571978.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "SpeakingArch",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:A_Temple_Niche_from_the_Lakshmi_Narayan_Temple,_Chamba.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "temple",
+      "architecture",
+      "niche",
+      "lakshmi",
+      "narayan",
+      "chamba"
+    ]
+  },
+  {
     "id": "cities-brooklyn-bridge-03-21594566",
     "name": "Brooklyn Bridge - 03",
     "category": "cities",
@@ -1344,6 +1372,32 @@
     ]
   },
   {
+    "id": "cities-brooklyn-bridge-10-33967818",
+    "name": "Brooklyn-Bridge-10",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/brooklyn-bridge-10-33967818.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/brooklyn-bridge-10-33967818.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "MartinThoma",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Brooklyn-Bridge-10.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "bridge",
+      "city",
+      "river",
+      "brooklyn"
+    ]
+  },
+  {
     "id": "cities-brooklyn-bridge-28759170",
     "name": "Brooklyn Bridge,",
     "category": "cities",
@@ -1359,6 +1413,32 @@
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge,.jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "bridge",
+      "city",
+      "river",
+      "brooklyn"
+    ]
+  },
+  {
+    "id": "cities-brooklyn-bridge-3550014659-34583688",
+    "name": "Brooklyn Bridge (3550014659)",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/brooklyn-bridge-3550014659-34583688.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/brooklyn-bridge-3550014659-34583688.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "dave_7 from Lethbridge, Canada",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_(3550014659).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
     "tags": [
@@ -1627,6 +1707,32 @@
     ]
   },
   {
+    "id": "cities-classification-of-bengal-temple-architecture-12-66692134",
+    "name": "Classification of Bengal Temple Architecture 12",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/classification-of-bengal-temple-architecture-12-66692134.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/classification-of-bengal-temple-architecture-12-66692134.webp",
+    "width": 1357,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Arunava Sanyal",
+      "license": "CC BY 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Classification_of_Bengal_Temple_Architecture_12.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "temple",
+      "architecture",
+      "classification",
+      "bengal"
+    ]
+  },
+  {
     "id": "cities-evolution-of-temple-architecture-in-bengal-66692284",
     "name": "Evolution of Temple Architecture in Bengal",
     "category": "cities",
@@ -1701,6 +1807,37 @@
       "buildings",
       "street",
       "exeter",
+      "geograph",
+      "org"
+    ]
+  },
+  {
+    "id": "cities-historic-buildings-of-review-close-high-street-m-164263590",
+    "name": "Historic buildings of Review Close, High Street, Montrose, Angus - geograph.org.uk - 7596193",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/historic-buildings-of-review-close-high-street-m-164263590.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/historic-buildings-of-review-close-high-street-m-164263590.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Adrian Diack",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Historic_buildings_of_Review_Close,_High_Street,_Montrose,_Angus_-_geograph.org.uk_-_7596193.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "historic",
+      "buildings",
+      "street",
+      "review",
+      "close",
+      "montrose",
+      "angus",
       "geograph",
       "org"
     ]
@@ -1938,6 +2075,66 @@
     ]
   },
   {
+    "id": "cities-new-york-city-new-york-usa-statue-of-liberty-201-35119826",
+    "name": "New York City (New York, USA), Statue of Liberty -- 2012 -- 6818",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/new-york-city-new-york-usa-statue-of-liberty-201-35119826.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/new-york-city-new-york-usa-statue-of-liberty-201-35119826.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Statue_of_Liberty_--_2012_--_6818.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "city",
+      "skyline",
+      "architecture",
+      "new",
+      "york",
+      "usa",
+      "statue",
+      "liberty"
+    ]
+  },
+  {
+    "id": "cities-new-york-city-new-york-usa-statue-of-liberty-201-35120021",
+    "name": "New York City (New York, USA), Statue of Liberty -- 2012 -- 6819",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/new-york-city-new-york-usa-statue-of-liberty-201-35120021.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/new-york-city-new-york-usa-statue-of-liberty-201-35120021.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Statue_of_Liberty_--_2012_--_6819.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "city",
+      "skyline",
+      "architecture",
+      "new",
+      "york",
+      "usa",
+      "statue",
+      "liberty"
+    ]
+  },
+  {
     "id": "cities-palace-wharf-hammersmith-and-fulham-historic-bui-110912276",
     "name": "Palace Wharf (Hammersmith and Fulham Historic Buildings Group)",
     "category": "cities",
@@ -2074,6 +2271,36 @@
       "mariamman",
       "singapore",
       "amk"
+    ]
+  },
+  {
+    "id": "cities-st-vincent-s-plaque-hammersmith-and-fulham-histo-110865810",
+    "name": "St Vincent's plaque (Hammersmith and Fulham Historic Buildings Group)",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/st-vincent-s-plaque-hammersmith-and-fulham-histo-110865810.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/st-vincent-s-plaque-hammersmith-and-fulham-histo-110865810.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Spudgun67",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:St_Vincent%27s_plaque_(Hammersmith_and_Fulham_Historic_Buildings_Group).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "historic",
+      "buildings",
+      "street",
+      "vincent",
+      "plaque",
+      "hammersmith",
+      "fulham",
+      "group"
     ]
   },
   {
@@ -2219,6 +2446,37 @@
     ]
   },
   {
+    "id": "nature-a-sand-dune-in-the-maranjab-desert-located-in-th-157364176",
+    "name": "A sand dune in the Maranjab Desert, located in the middle of the Kavir National Park IRAN 05",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/a-sand-dune-in-the-maranjab-desert-located-in-th-157364176.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/a-sand-dune-in-the-maranjab-desert-located-in-th-157364176.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Mostafameraji",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:A_sand_dune_in_the_Maranjab_Desert,_located_in_the_middle_of_the_Kavir_National_Park_IRAN_05.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "desert",
+      "dunes",
+      "sand",
+      "dune",
+      "maranjab",
+      "located",
+      "middle",
+      "kavir",
+      "national"
+    ]
+  },
+  {
     "id": "nature-a-sand-dune-in-the-maranjab-desert-located-in-th-157364177",
     "name": "A sand dune in the Maranjab Desert, located in the middle of the Kavir National Park IRAN 06",
     "category": "nature",
@@ -2312,6 +2570,37 @@
     ]
   },
   {
+    "id": "nature-a-sand-dune-in-the-maranjab-desert-located-in-th-157364329",
+    "name": "A sand dune in the Maranjab Desert, located in the middle of the Kavir National Park IRAN 42",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/a-sand-dune-in-the-maranjab-desert-located-in-th-157364329.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/a-sand-dune-in-the-maranjab-desert-located-in-th-157364329.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Mostafameraji",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:A_sand_dune_in_the_Maranjab_Desert,_located_in_the_middle_of_the_Kavir_National_Park_IRAN_42.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "desert",
+      "dunes",
+      "sand",
+      "dune",
+      "maranjab",
+      "located",
+      "middle",
+      "kavir",
+      "national"
+    ]
+  },
+  {
     "id": "nature-a-view-of-taal-volcano-from-tanauan-batangas-119899551",
     "name": "A view of Taal Volcano from Tanauan, Batangas",
     "category": "nature",
@@ -2335,6 +2624,33 @@
       "taal",
       "tanauan",
       "batangas"
+    ]
+  },
+  {
+    "id": "nature-adirondack-map-mountains-lakes-and-rivers-111167227",
+    "name": "Adirondack Map Mountains, Lakes, and Rivers",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/adirondack-map-mountains-lakes-and-rivers-111167227.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/adirondack-map-mountains-lakes-and-rivers-111167227.webp",
+    "width": 1558,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Tom Patterson",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Adirondack_Map_Mountains,_Lakes,_and_Rivers.jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "mountains",
+      "adirondack",
+      "map",
+      "lakes",
+      "rivers"
     ]
   },
   {
@@ -2397,6 +2713,33 @@
     ]
   },
   {
+    "id": "nature-autumn-2021-in-passchendaele-state-forest-queens-104452081",
+    "name": "Autumn 2021 in Passchendaele State Forest, Queensland, 03",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/autumn-2021-in-passchendaele-state-forest-queens-104452081.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/autumn-2021-in-passchendaele-state-forest-queens-104452081.webp",
+    "width": 1079,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Kgbo",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Autumn_2021_in_Passchendaele_State_Forest,_Queensland,_03.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "autumn",
+      "forest",
+      "passchendaele",
+      "state",
+      "queensland"
+    ]
+  },
+  {
     "id": "nature-autumn-2021-in-passchendaele-state-forest-queens-104452099",
     "name": "Autumn 2021 in Passchendaele State Forest, Queensland, 09",
     "category": "nature",
@@ -2411,6 +2754,33 @@
       "license": "CC BY-SA 4.0",
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Autumn_2021_in_Passchendaele_State_Forest,_Queensland,_09.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "autumn",
+      "forest",
+      "passchendaele",
+      "state",
+      "queensland"
+    ]
+  },
+  {
+    "id": "nature-autumn-2021-in-passchendaele-state-forest-queens-104452101",
+    "name": "Autumn 2021 in Passchendaele State Forest, Queensland, 08",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/autumn-2021-in-passchendaele-state-forest-queens-104452101.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/autumn-2021-in-passchendaele-state-forest-queens-104452101.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Kgbo",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Autumn_2021_in_Passchendaele_State_Forest,_Queensland,_08.jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
@@ -2684,6 +3054,34 @@
     ]
   },
   {
+    "id": "nature-beach-fishing-at-the-gold-coast-queensland-austr-90878338",
+    "name": "Beach fishing at the Gold Coast, Queensland, Australia 01",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/beach-fishing-at-the-gold-coast-queensland-austr-90878338.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/beach-fishing-at-the-gold-coast-queensland-austr-90878338.webp",
+    "width": 1241,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Kgbo",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Beach_fishing_at_the_Gold_Coast,_Queensland,_Australia_01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "beach",
+      "coast",
+      "fishing",
+      "gold",
+      "queensland",
+      "australia"
+    ]
+  },
+  {
     "id": "nature-beryl-lake-in-the-talkeetna-mountains-of-alaska-152519172",
     "name": "Beryl Lake, in the Talkeetna Mountains of Alaska",
     "category": "nature",
@@ -2842,6 +3240,31 @@
     ]
   },
   {
+    "id": "nature-closeup-of-yellow-cosmos-flower-02-155143321",
+    "name": "Closeup of yellow cosmos flower 02",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/closeup-of-yellow-cosmos-flower-02-155143321.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/closeup-of-yellow-cosmos-flower-02-155143321.webp",
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "991joseph",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Closeup_of_yellow_cosmos_flower_02.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "flower",
+      "yellow",
+      "cosmos"
+    ]
+  },
+  {
     "id": "nature-closeup-of-yellow-cosmos-flower-03-155143320",
     "name": "Closeup of yellow cosmos flower 03",
     "category": "nature",
@@ -2920,6 +3343,32 @@
     ]
   },
   {
+    "id": "nature-combretum-indicum-flower-from-bangladesh-closeup-148804884",
+    "name": "Combretum indicum flower from Bangladesh closeup 2",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/combretum-indicum-flower-from-bangladesh-closeup-148804884.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/combretum-indicum-flower-from-bangladesh-closeup-148804884.webp",
+    "width": 1442,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Sm faysal",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Combretum_indicum_flower_from_Bangladesh_closeup_2.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "flower",
+      "combretum",
+      "indicum",
+      "bangladesh"
+    ]
+  },
+  {
     "id": "nature-consolation-lake-szmurlo-2795219",
     "name": "Consolation-Lake-Szmurlo",
     "category": "nature",
@@ -2943,6 +3392,36 @@
       "mountains",
       "consolation",
       "szmurlo"
+    ]
+  },
+  {
+    "id": "nature-coucher-de-soleil-sur-la-montagne-19th-century-o-151947746",
+    "name": "Coucher de Soleil sur la Montagne - 19th Century Oil, Mountain Landscape - Duhem, 1923",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/coucher-de-soleil-sur-la-montagne-19th-century-o-151947746.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/coucher-de-soleil-sur-la-montagne-19th-century-o-151947746.webp",
+    "width": 1391,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Henri Duhem (1860 - 1941, French)",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Coucher_de_Soleil_sur_la_Montagne_-_19th_Century_Oil,_Mountain_Landscape_-_Duhem,_1923.jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "mountain",
+      "coucher",
+      "soleil",
+      "sur",
+      "montagne",
+      "19th",
+      "century",
+      "oil",
+      "duhem"
     ]
   },
   {
@@ -3155,6 +3634,88 @@
     ]
   },
   {
+    "id": "nature-fol-75b-anatolian-coastline-facing-the-island-of-194139200",
+    "name": "fol. 75b Anatolian coastline facing the island of Samos",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/fol-75b-anatolian-coastline-facing-the-island-of-194139200.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/fol-75b-anatolian-coastline-facing-the-island-of-194139200.webp",
+    "width": 1303,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Pirî Reis, d. 1554?",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Fol._75b_Anatolian_coastline_facing_the_island_of_Samos_(IA_dr_fol-75b-anatolian-coastline-facing-the-island-of-samos-w658_000159_886).jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "island",
+      "coastline",
+      "fol",
+      "75b",
+      "anatolian",
+      "facing",
+      "samos"
+    ]
+  },
+  {
+    "id": "nature-fol-93b-anatolian-coastline-facing-the-island-of-194139405",
+    "name": "fol. 93b Anatolian coastline facing the island of Cos",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/fol-93b-anatolian-coastline-facing-the-island-of-194139405.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/fol-93b-anatolian-coastline-facing-the-island-of-194139405.webp",
+    "width": 1299,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Pirî Reis, d. 1554?",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Fol._93b_Anatolian_coastline_facing_the_island_of_Cos_(IA_dr_fol-93b-anatolian-coastline-facing-the-island-of-cos-w658_000196_886).jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "island",
+      "coastline",
+      "fol",
+      "93b",
+      "anatolian",
+      "facing",
+      "cos"
+    ]
+  },
+  {
+    "id": "nature-forest-waterfall-geograph-org-uk-6744152-152921781",
+    "name": "Forest waterfall - geograph.org.uk - 6744152",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/forest-waterfall-geograph-org-uk-6744152-152921781.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/forest-waterfall-geograph-org-uk-6744152-152921781.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Alan Hughes",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Forest_waterfall_-_geograph.org.uk_-_6744152.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "forest",
+      "waterfall",
+      "geograph",
+      "org"
+    ]
+  },
+  {
     "id": "nature-forest-waterfall-geograph-org-uk-6744360-152923114",
     "name": "Forest waterfall - geograph.org.uk - 6744360",
     "category": "nature",
@@ -3178,6 +3739,34 @@
       "waterfall",
       "geograph",
       "org"
+    ]
+  },
+  {
+    "id": "nature-grand-canyon-arizona-usa-luftaufnahme-2012-5928-177124259",
+    "name": "Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5928",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/grand-canyon-arizona-usa-luftaufnahme-2012-5928-177124259.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/grand-canyon-arizona-usa-luftaufnahme-2012-5928-177124259.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_(Arizona,_USA),_Luftaufnahme_--_2012_--_5928.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "river",
+      "canyon",
+      "grand",
+      "arizona",
+      "usa",
+      "luftaufnahme"
     ]
   },
   {
@@ -3223,6 +3812,34 @@
       "license": "CC BY-SA 4.0",
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_(Arizona,_USA),_Luftaufnahme_--_2012_--_5962.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "river",
+      "canyon",
+      "grand",
+      "arizona",
+      "usa",
+      "luftaufnahme"
+    ]
+  },
+  {
+    "id": "nature-grand-canyon-arizona-usa-luftaufnahme-2012-5968-177124305",
+    "name": "Grand Canyon (Arizona, USA), Luftaufnahme -- 2012 -- 5968",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/grand-canyon-arizona-usa-luftaufnahme-2012-5968-177124305.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/grand-canyon-arizona-usa-luftaufnahme-2012-5968-177124305.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_(Arizona,_USA),_Luftaufnahme_--_2012_--_5968.jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
@@ -3361,6 +3978,60 @@
     ]
   },
   {
+    "id": "nature-hawaii-volcanoes-01-83901673",
+    "name": "Hawaii Volcanoes 01",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/hawaii-volcanoes-01-83901673.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/hawaii-volcanoes-01-83901673.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "AndrewKPepper",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Hawaii_Volcanoes_01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "volcano",
+      "hawaii",
+      "volcanoes"
+    ]
+  },
+  {
+    "id": "nature-iguana-beach-in-agioi-apostoli-crete-greece-82929451",
+    "name": "Iguana Beach in Agioi Apostoli. Crete, Greece",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/iguana-beach-in-agioi-apostoli-crete-greece-82929451.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/iguana-beach-in-agioi-apostoli-crete-greece-82929451.webp",
+    "width": 1592,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Ввласенко",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Iguana_Beach_in_Agioi_Apostoli._Crete,_Greece.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "beach",
+      "coast",
+      "iguana",
+      "agioi",
+      "apostoli",
+      "crete",
+      "greece"
+    ]
+  },
+  {
     "id": "nature-khtblakemountain-6750553",
     "name": "KHTBLakeMountain",
     "category": "nature",
@@ -3461,6 +4132,35 @@
     ]
   },
   {
+    "id": "nature-lakeskutari-northern-part-and-prokletije-mountai-54050986",
+    "name": "LakeSkutari northern part and Prokletije Mountains (WPWTR16)",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/lakeskutari-northern-part-and-prokletije-mountai-54050986.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/lakeskutari-northern-part-and-prokletije-mountai-54050986.webp",
+    "width": 1276,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Albinfo",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:LakeSkutari_northern_part_and_Prokletije_Mountains_(WPWTR16).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "lake",
+      "mountains",
+      "lakeskutari",
+      "northern",
+      "part",
+      "prokletije",
+      "wpwtr16"
+    ]
+  },
+  {
     "id": "nature-localserviceslakemountain-6750613",
     "name": "LocalservicesLakeMountain",
     "category": "nature",
@@ -3539,6 +4239,30 @@
       "gold",
       "queensland",
       "september"
+    ]
+  },
+  {
+    "id": "nature-mayon-volcano-view-119175124",
+    "name": "Mayon Volcano View",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/mayon-volcano-view-119175124.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/mayon-volcano-view-119175124.webp",
+    "width": 1125,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Zyrahila",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Mayon_Volcano_View.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "volcano",
+      "mayon"
     ]
   },
   {
@@ -3722,6 +4446,29 @@
     ]
   },
   {
+    "id": "nature-mountain-landscape-65047533",
+    "name": "Mountain Landscape",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/mountain-landscape-65047533.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/mountain-landscape-65047533.webp",
+    "width": 1279,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Creator:David Pell Secor",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Mountain_Landscape_MET_ap89.24_verso.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "mountain"
+    ]
+  },
+  {
     "id": "nature-mountain-landscape-near-the-abudelauri-lakes-dus-164330084",
     "name": "Mountain landscape near the Abudelauri Lakes, Dusheti Municipality",
     "category": "nature",
@@ -3795,6 +4542,35 @@
       "desert",
       "dunes",
       "namib"
+    ]
+  },
+  {
+    "id": "nature-night-sky-baiersdorf-flickr-markus-spiske-93211690",
+    "name": "Night Sky @ Baiersdorf - Flickr - markus spiske",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/night-sky-baiersdorf-flickr-markus-spiske-93211690.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/night-sky-baiersdorf-flickr-markus-spiske-93211690.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Markus Spiske from Forchheim, Bavaria Upper Franconia",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Night_Sky_@_Baiersdorf_-_Flickr_-_markus_spiske.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "night",
+      "sky",
+      "stars",
+      "baiersdorf",
+      "flickr",
+      "markus",
+      "spiske"
     ]
   },
   {
@@ -4099,6 +4875,35 @@
     ]
   },
   {
+    "id": "nature-spring-forest-waterfall-rocks-west-virginia-fore-21463802",
+    "name": "Spring-forest-waterfall-rocks - West Virginia - ForestWander",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/spring-forest-waterfall-rocks-west-virginia-fore-21463802.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/spring-forest-waterfall-rocks-west-virginia-fore-21463802.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "ForestWander",
+      "license": "CC BY-SA 3.0 us",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Spring-forest-waterfall-rocks_-_West_Virginia_-_ForestWander.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/us/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "forest",
+      "waterfall",
+      "spring",
+      "rocks",
+      "west",
+      "virginia",
+      "forestwander"
+    ]
+  },
+  {
     "id": "nature-stars-in-the-night-sky-179958408",
     "name": "Stars in the Night Sky",
     "category": "nature",
@@ -4277,6 +5082,33 @@
       "mountains",
       "utah",
       "springville"
+    ]
+  },
+  {
+    "id": "nature-wadi-shawka-night-sky-01-149392356",
+    "name": "Wadi Shawka night sky 01",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/wadi-shawka-night-sky-01-149392356.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/wadi-shawka-night-sky-01-149392356.webp",
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "ShaniaJ",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Wadi_Shawka_night_sky_01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "night",
+      "sky",
+      "stars",
+      "wadi",
+      "shawka"
     ]
   },
   {
@@ -4680,6 +5512,34 @@
     ]
   },
   {
+    "id": "space-weston-family-lab-for-earth-and-space-exploratio-157593672",
+    "name": "Weston Family Lab for Earth and Space Exploration",
+    "category": "space",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/weston-family-lab-for-earth-and-space-exploratio-157593672.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/weston-family-lab-for-earth-and-space-exploratio-157593672.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Tzim78",
+      "license": "CC BY 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Weston_Family_Lab_for_Earth_and_Space_Exploration.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "space",
+      "planet",
+      "earth",
+      "weston",
+      "family",
+      "lab",
+      "exploration"
+    ]
+  },
+  {
     "id": "travel-20191204-taj-mahal-agra-0647-6556-87080436",
     "name": "20191204 Taj Mahal Agra 0647 6556",
     "category": "travel",
@@ -4733,6 +5593,60 @@
     ]
   },
   {
+    "id": "travel-20191204-taj-mahal-agra-0658-6566-87363834",
+    "name": "20191204 Taj Mahal Agra 0658 6566",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/20191204-taj-mahal-agra-0658-6566-87363834.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/20191204-taj-mahal-agra-0658-6566-87363834.webp",
+    "width": 1276,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Jakub Hałun",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:20191204_Taj_Mahal_Agra_0658_6566.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "taj",
+      "mahal",
+      "india",
+      "agra"
+    ]
+  },
+  {
+    "id": "travel-20200108-great-wall-of-china-guard-house-window-128284236",
+    "name": "20200108 Great Wall of China guard house window-2",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/20200108-great-wall-of-china-guard-house-window-128284236.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/20200108-great-wall-of-china-guard-house-window-128284236.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Balon Greyjoy",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:20200108_Great_Wall_of_China_guard_house_window-2.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "great",
+      "wall",
+      "china",
+      "guard",
+      "house",
+      "window"
+    ]
+  },
+  {
     "id": "travel-badaling-china-great-wall-of-china-04-32397138",
     "name": "Badaling China Great-Wall-of-China-04",
     "category": "travel",
@@ -4756,6 +5670,32 @@
       "wall",
       "china",
       "badaling"
+    ]
+  },
+  {
+    "id": "travel-cats-on-the-great-wall-of-china-87455869",
+    "name": "Cats on the Great Wall of China",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/cats-on-the-great-wall-of-china-87455869.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/cats-on-the-great-wall-of-china-87455869.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Ekaterina Kvelidze",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Cats_on_the_Great_Wall_of_China.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "great",
+      "wall",
+      "china",
+      "cats"
     ]
   },
   {
@@ -5504,6 +6444,33 @@
     ]
   },
   {
+    "id": "travel-machu-picchu-peru-flickr-exfordy-18454951",
+    "name": "Machu Picchu, Peru - Flickr - exfordy",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/machu-picchu-peru-flickr-exfordy-18454951.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/machu-picchu-peru-flickr-exfordy-18454951.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Brian Snelson from Hockley, Essex, England",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Peru_-_Flickr_-_exfordy.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "machu",
+      "picchu",
+      "peru",
+      "flickr",
+      "exfordy"
+    ]
+  },
+  {
     "id": "travel-medina-doorways-marrakech-morocco-april-2013-870-26359697",
     "name": "MEDINA DOORWAYS MARRAKECH MOROCCO APRIL 2013 (8706570069)",
     "category": "travel",
@@ -5643,6 +6610,33 @@
     ]
   },
   {
+    "id": "travel-medina-souk-marrakech-morocco-panoramio-2-56023064",
+    "name": "Medina souk, Marrakech, Morocco - panoramio (2)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/medina-souk-marrakech-morocco-panoramio-2-56023064.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/medina-souk-marrakech-morocco-panoramio-2-56023064.webp",
+    "width": 1275,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "David Broad",
+      "license": "CC BY 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Medina_souk,_Marrakech,_Morocco_-_panoramio_(2).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "marrakech",
+      "medina",
+      "morocco",
+      "souk",
+      "panoramio"
+    ]
+  },
+  {
     "id": "travel-nixon-looking-on-at-great-wall-115557590",
     "name": "Nixon looking on at Great Wall",
     "category": "travel",
@@ -5779,6 +6773,60 @@
     ]
   },
   {
+    "id": "travel-ruins-of-machu-picchu-unsplash-jpmyaqhat7g-62273908",
+    "name": "Ruins of Machu Picchu (Unsplash jpMyAqHat7g)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/ruins-of-machu-picchu-unsplash-jpmyaqhat7g-62273908.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/ruins-of-machu-picchu-unsplash-jpmyaqhat7g-62273908.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Amanda Kerr amandakerr",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ruins_of_Machu_Picchu_(Unsplash_jpMyAqHat7g).jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "machu",
+      "picchu",
+      "peru",
+      "ruins",
+      "unsplash",
+      "jpmyaqhat7g"
+    ]
+  },
+  {
+    "id": "travel-sunset-marrakech-morocco-116330099",
+    "name": "Sunset, Marrakech, Morocco",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/sunset-marrakech-morocco-116330099.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/sunset-marrakech-morocco-116330099.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Inesgh13",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Sunset,_Marrakech,_Morocco.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "marrakech",
+      "medina",
+      "morocco",
+      "sunset"
+    ]
+  },
+  {
     "id": "travel-taj-mahal-bhopal-s-mp-31-3-51757525",
     "name": "Taj Mahal Bhopal S-MP-31 (3)",
     "category": "travel",
@@ -5829,6 +6877,32 @@
       "india",
       "main",
       "entrance"
+    ]
+  },
+  {
+    "id": "travel-taj-mahal-tower-12749830",
+    "name": "Taj Mahal Tower",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/taj-mahal-tower-12749830.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/taj-mahal-tower-12749830.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Joe Ravi",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Tower.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "taj",
+      "mahal",
+      "india",
+      "tower"
     ]
   },
   {
@@ -5910,6 +6984,93 @@
     ]
   },
   {
+    "id": "travel-torii-gate-fushimi-inari-taisha-kyoto-20240818-1-168820061",
+    "name": "Torii gate, Fushimi Inari-taisha, Kyoto, 20240818 1342 4406",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/torii-gate-fushimi-inari-taisha-kyoto-20240818-1-168820061.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/torii-gate-fushimi-inari-taisha-kyoto-20240818-1-168820061.webp",
+    "width": 1273,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Torii_gate,_Fushimi_Inari-taisha,_Kyoto,_20240818_1342_4406.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "kyoto",
+      "shrine",
+      "japan",
+      "torii",
+      "gate",
+      "fushimi",
+      "inari",
+      "taisha"
+    ]
+  },
+  {
+    "id": "travel-torii-gate-fushimi-inari-taisha-kyoto-20240818-1-168820064",
+    "name": "Torii gate, Fushimi Inari-taisha, Kyoto, 20240818 1342 4405",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/torii-gate-fushimi-inari-taisha-kyoto-20240818-1-168820064.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/torii-gate-fushimi-inari-taisha-kyoto-20240818-1-168820064.webp",
+    "width": 1273,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Torii_gate,_Fushimi_Inari-taisha,_Kyoto,_20240818_1342_4405.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "kyoto",
+      "shrine",
+      "japan",
+      "torii",
+      "gate",
+      "fushimi",
+      "inari",
+      "taisha"
+    ]
+  },
+  {
+    "id": "travel-tour-eiffel-20150801-13h44-10613-45159978",
+    "name": "Tour Eiffel - 20150801 13h44 (10613)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/tour-eiffel-20150801-13h44-10613-45159978.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/tour-eiffel-20150801-13h44-10613-45159978.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_-_20150801_13h44_(10613).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "eiffel",
+      "tower",
+      "paris",
+      "tour",
+      "13h44"
+    ]
+  },
+  {
     "id": "travel-tour-eiffel-20150801-15h30-10621-45159980",
     "name": "Tour Eiffel - 20150801 15h30 (10621)",
     "category": "travel",
@@ -5987,6 +7148,65 @@
       "tower",
       "paris",
       "tour"
+    ]
+  },
+  {
+    "id": "travel-wwii-europe-france-american-soldiers-watch-as-th-20337630",
+    "name": "WWII: Europe: France; \"American soldiers watch as the Tricolor flies from the Eiffel Tower again\"",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/wwii-europe-france-american-soldiers-watch-as-th-20337630.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/wwii-europe-france-american-soldiers-watch-as-th-20337630.webp",
+    "width": 1511,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Unknown author Unknown author or not provided",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:American_soldiers_watch_as_the_Tricolor_flies_from_the_Eiffel_Tower_again.jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "eiffel",
+      "tower",
+      "paris",
+      "wwii",
+      "europe",
+      "france",
+      "american",
+      "soldiers",
+      "watch"
+    ]
+  },
+  {
+    "id": "wildlife-ara-chloropterus-butterfly-park-insect-kingdom-s-8828446",
+    "name": "Ara chloropterus -Butterfly Park & Insect Kingdom -Sentosa-8a",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/ara-chloropterus-butterfly-park-insect-kingdom-s-8828446.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/ara-chloropterus-butterfly-park-insect-kingdom-s-8828446.webp",
+    "width": 1327,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Gordon Wrigley",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Ara_chloropterus_-Butterfly_Park_%26_Insect_Kingdom_-Sentosa-8a.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "butterfly",
+      "insect",
+      "ara",
+      "chloropterus",
+      "park",
+      "kingdom",
+      "sentosa"
     ]
   },
   {
@@ -6318,6 +7538,56 @@
     ]
   },
   {
+    "id": "wildlife-illegal-wildlife-property-15767228034-162818469",
+    "name": "Illegal Wildlife Property (15767228034)",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/illegal-wildlife-property-15767228034-162818469.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/illegal-wildlife-property-15767228034-162818469.webp",
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "USFWS Mountain Prairie",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Illegal_Wildlife_Property_(15767228034).jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "elephant",
+      "tiger",
+      "illegal",
+      "property"
+    ]
+  },
+  {
+    "id": "wildlife-illegal-wildlife-property-16202032538-162818501",
+    "name": "Illegal Wildlife Property (16202032538)",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/illegal-wildlife-property-16202032538-162818501.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/illegal-wildlife-property-16202032538-162818501.webp",
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "USFWS Mountain Prairie",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Illegal_Wildlife_Property_(16202032538).jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "elephant",
+      "tiger",
+      "illegal",
+      "property"
+    ]
+  },
+  {
     "id": "wildlife-illegal-wildlife-property-16202105758-162818320",
     "name": "Illegal Wildlife Property (16202105758)",
     "category": "wildlife",
@@ -6420,6 +7690,37 @@
     ]
   },
   {
+    "id": "wildlife-little-pied-cormorant-currumbin-bird-sanctuary-e-144174564",
+    "name": "Little pied cormorant Currumbin Bird Sanctuary early 1980s - photo John McPherson IGA 19 4 2018 6 18 9 154b",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/little-pied-cormorant-currumbin-bird-sanctuary-e-144174564.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/little-pied-cormorant-currumbin-bird-sanctuary-e-144174564.webp",
+    "width": 1568,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "John Robert McPherson",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Little_pied_cormorant_Currumbin_Bird_Sanctuary_early_1980s_-_photo_John_McPherson_IGA_19_4_2018_6_18_9_154b.tif",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "bird",
+      "little",
+      "pied",
+      "cormorant",
+      "currumbin",
+      "sanctuary",
+      "early",
+      "1980s",
+      "john"
+    ]
+  },
+  {
     "id": "wildlife-local-environmental-conservation-officers-check-17115323",
     "name": "LOCAL ENVIRONMENTAL CONSERVATION OFFICERS CHECK A BUCK DEER KILL BY HUNTERS AT THE START OF THE SEASON IN THE NEW YORK ADIRONDACK FOREST PRESERVE AREA OF MOOSE RIVER PLAINS, THE PLAINS IS A STATE PRIMITIVE RECREATIONAL AREA",
     "category": "wildlife",
@@ -6447,6 +7748,31 @@
       "officers",
       "check",
       "buck"
+    ]
+  },
+  {
+    "id": "wildlife-macro-butterfly-insect-picture-24870536",
+    "name": "Macro butterfly insect picture",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/macro-butterfly-insect-picture-24870536.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/macro-butterfly-insect-picture-24870536.webp",
+    "width": 1287,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Singer Ron, U.S. Fish and Wildlife Service",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Macro_butterfly_insect_picture.jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "butterfly",
+      "insect",
+      "macro",
+      "picture"
     ]
   },
   {
@@ -6644,6 +7970,37 @@
     ]
   },
   {
+    "id": "wildlife-rusty-flanked-treecreeper-in-senchal-wildlife-sa-166944604",
+    "name": "Rusty-flanked Treecreeper in Senchal Wildlife Sanctuary May 2025 by Tisha Mukherjee 09",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/rusty-flanked-treecreeper-in-senchal-wildlife-sa-166944604.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/rusty-flanked-treecreeper-in-senchal-wildlife-sa-166944604.webp",
+    "width": 1372,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Rusty-flanked_Treecreeper_in_Senchal_Wildlife_Sanctuary_May_2025_by_Tisha_Mukherjee_09.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "bird",
+      "rusty",
+      "flanked",
+      "treecreeper",
+      "senchal",
+      "sanctuary",
+      "may",
+      "tisha",
+      "mukherjee"
+    ]
+  },
+  {
     "id": "wildlife-sambar-deer-ranthambhore-58732201",
     "name": "Sambar deer Ranthambhore",
     "category": "wildlife",
@@ -6781,6 +8138,32 @@
       "thalassinus",
       "pilibhit",
       "reserve"
+    ]
+  },
+  {
+    "id": "wildlife-white-tailed-deer-119030785",
+    "name": "White-tailed Deer",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/white-tailed-deer-119030785.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/white-tailed-deer-119030785.webp",
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "NPS",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Deer_are_most_often_seen_along_the_forests_edge._(d5a2415e-23bc-4424-93d4-fa6e9ac27d40).jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "deer",
+      "mammal",
+      "forest",
+      "white",
+      "tailed"
     ]
   },
   {
