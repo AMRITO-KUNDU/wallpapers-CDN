@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "generate-thumbnails": "node scripts/generate-thumbnails.js",
+    "generate-images-json": "node scripts/generate-images-json.js",
+    "import-wallpapers": "node scripts/import-wallpapers.js",
+    "generate-wallpapers": "node scripts/generate-procedural-wallpapers.js",
+    "validate": "node scripts/validate-images-json.js",
+    "dedupe": "node scripts/dedupe-wallpapers.js",
+    "validate-imports": "node scripts/validate-imported-wallpapers.js"
+  },
+  "dependencies": {
+    "html-entities": "^2.6.0",
+    "sharp": "^0.34.3"
+  }
+}
