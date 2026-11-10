@@ -1,11 +1,11 @@
 {
   "generated_from": "images.json",
-  "wallpaper_count": 604,
-  "tag_count": 947,
+  "wallpaper_count": 652,
+  "tag_count": 1002,
   "tags": [
     {
       "tag": "nature",
-      "count": 241,
+      "count": 261,
       "categories": [
         "nature",
         "wildlife"
@@ -13,32 +13,51 @@
     },
     {
       "tag": "travel",
-      "count": 132,
+      "count": 144,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "cities",
-      "count": 88,
+      "count": 96,
       "categories": [
         "cities"
       ]
     },
     {
       "tag": "wildlife",
-      "count": 70,
+      "count": 74,
       "categories": [
         "wildlife"
       ]
     },
     {
       "tag": "forest",
-      "count": 57,
+      "count": 61,
       "categories": [
         "abstract",
         "nature",
         "wildlife"
+      ]
+    },
+    {
+      "tag": "river",
+      "count": 52,
+      "categories": [
+        "cities",
+        "nature",
+        "wildlife"
+      ]
+    },
+    {
+      "tag": "city",
+      "count": 51,
+      "categories": [
+        "cities",
+        "nature",
+        "space",
+        "travel"
       ]
     },
     {
@@ -70,27 +89,8 @@
       ]
     },
     {
-      "tag": "river",
-      "count": 48,
-      "categories": [
-        "cities",
-        "nature",
-        "wildlife"
-      ]
-    },
-    {
-      "tag": "city",
-      "count": 47,
-      "categories": [
-        "cities",
-        "nature",
-        "space",
-        "travel"
-      ]
-    },
-    {
       "tag": "architecture",
-      "count": 44,
+      "count": 48,
       "categories": [
         "cities"
       ]
@@ -111,7 +111,7 @@
     },
     {
       "tag": "stars",
-      "count": 27,
+      "count": 31,
       "categories": [
         "nature",
         "space"
@@ -119,15 +119,29 @@
     },
     {
       "tag": "tower",
-      "count": 27,
+      "count": 29,
       "categories": [
         "nature",
         "travel"
       ]
     },
     {
+      "tag": "lake",
+      "count": 27,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "bridge",
+      "count": 26,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "japan",
-      "count": 24,
+      "count": 26,
       "categories": [
         "nature",
         "travel"
@@ -135,14 +149,14 @@
     },
     {
       "tag": "mountain",
-      "count": 24,
+      "count": 26,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "night",
-      "count": 24,
+      "count": 26,
       "categories": [
         "cities",
         "nature"
@@ -150,283 +164,269 @@
     },
     {
       "tag": "skyline",
-      "count": 24,
+      "count": 26,
       "categories": [
         "cities",
         "nature"
       ]
     },
     {
+      "tag": "space",
+      "count": 26,
+      "categories": [
+        "space"
+      ]
+    },
+    {
       "tag": "street",
-      "count": 24,
+      "count": 26,
       "categories": [
         "cities",
         "travel"
       ]
     },
     {
-      "tag": "bridge",
-      "count": 23,
-      "categories": [
-        "cities"
-      ]
-    },
-    {
       "tag": "brooklyn",
-      "count": 23,
+      "count": 25,
       "categories": [
         "cities"
       ]
     },
     {
       "tag": "india",
-      "count": 23,
+      "count": 25,
       "categories": [
         "travel",
         "wildlife"
       ]
     },
     {
-      "tag": "lake",
-      "count": 23,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
       "tag": "mountains",
-      "count": 23,
+      "count": 25,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "sky",
-      "count": 23,
+      "count": 25,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "autumn",
-      "count": 22,
+      "count": 24,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "beach",
-      "count": 22,
+      "count": 24,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "buildings",
-      "count": 22,
+      "count": 24,
       "categories": [
         "cities"
       ]
     },
     {
       "tag": "butterfly",
-      "count": 22,
+      "count": 24,
       "categories": [
         "wildlife"
       ]
     },
     {
       "tag": "canyon",
-      "count": 22,
+      "count": 24,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "china",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "coast",
-      "count": 22,
+      "count": 24,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "desert",
-      "count": 22,
+      "count": 24,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "dunes",
-      "count": 22,
+      "count": 24,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "eiffel",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "flower",
-      "count": 22,
+      "count": 24,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "great",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "historic",
-      "count": 22,
+      "count": 24,
       "categories": [
         "cities"
       ]
     },
     {
       "tag": "insect",
-      "count": 22,
+      "count": 24,
       "categories": [
         "wildlife"
       ]
     },
     {
       "tag": "kyoto",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "machu",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "mahal",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "marrakech",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "medina",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "morocco",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "paris",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "peru",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "picchu",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "shrine",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
-      "tag": "space",
-      "count": 22,
-      "categories": [
-        "space"
-      ]
-    },
-    {
       "tag": "taj",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "temple",
-      "count": 22,
+      "count": 24,
       "categories": [
         "cities"
       ]
     },
     {
       "tag": "wall",
-      "count": 22,
+      "count": 24,
       "categories": [
         "travel"
       ]
     },
     {
       "tag": "waterfall",
-      "count": 22,
+      "count": 24,
       "categories": [
         "nature"
       ]
     },
     {
       "tag": "bird",
-      "count": 20,
+      "count": 22,
       "categories": [
         "wildlife"
       ]
     },
     {
-      "tag": "island",
-      "count": 20,
+      "tag": "volcano",
+      "count": 22,
       "categories": [
         "nature"
       ]
     },
     {
-      "tag": "volcano",
-      "count": 20,
+      "tag": "island",
+      "count": 21,
       "categories": [
         "nature"
       ]
@@ -461,6 +461,20 @@
       ]
     },
     {
+      "tag": "earth",
+      "count": 17,
+      "categories": [
+        "space"
+      ]
+    },
+    {
+      "tag": "planet",
+      "count": 17,
+      "categories": [
+        "space"
+      ]
+    },
+    {
       "tag": "glow",
       "count": 16,
       "categories": [
@@ -482,20 +496,6 @@
       ]
     },
     {
-      "tag": "earth",
-      "count": 15,
-      "categories": [
-        "space"
-      ]
-    },
-    {
-      "tag": "planet",
-      "count": 15,
-      "categories": [
-        "space"
-      ]
-    },
-    {
       "tag": "usa",
       "count": 15,
       "categories": [
@@ -504,18 +504,42 @@
       ]
     },
     {
+      "tag": "geograph",
+      "count": 14,
+      "categories": [
+        "cities",
+        "nature"
+      ]
+    },
+    {
+      "tag": "park",
+      "count": 14,
+      "categories": [
+        "nature",
+        "wildlife"
+      ]
+    },
+    {
+      "tag": "reserve",
+      "count": 14,
+      "categories": [
+        "nature",
+        "wildlife"
+      ]
+    },
+    {
+      "tag": "blue",
+      "count": 13,
+      "categories": [
+        "nature",
+        "space"
+      ]
+    },
+    {
       "tag": "fulham",
       "count": 13,
       "categories": [
         "cities"
-      ]
-    },
-    {
-      "tag": "geograph",
-      "count": 13,
-      "categories": [
-        "cities",
-        "nature"
       ]
     },
     {
@@ -541,30 +565,6 @@
       ]
     },
     {
-      "tag": "park",
-      "count": 12,
-      "categories": [
-        "nature",
-        "wildlife"
-      ]
-    },
-    {
-      "tag": "reserve",
-      "count": 12,
-      "categories": [
-        "nature",
-        "wildlife"
-      ]
-    },
-    {
-      "tag": "blue",
-      "count": 11,
-      "categories": [
-        "nature",
-        "space"
-      ]
-    },
-    {
       "tag": "dpla",
       "count": 11,
       "categories": [
@@ -579,10 +579,26 @@
       ]
     },
     {
+      "tag": "hindu",
+      "count": 11,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "illegal",
       "count": 11,
       "categories": [
         "wildlife"
+      ]
+    },
+    {
+      "tag": "new",
+      "count": 11,
+      "categories": [
+        "cities",
+        "nature",
+        "travel"
       ]
     },
     {
@@ -609,10 +625,10 @@
       ]
     },
     {
-      "tag": "hindu",
+      "tag": "june",
       "count": 10,
       "categories": [
-        "cities"
+        "travel"
       ]
     },
     {
@@ -624,18 +640,17 @@
       ]
     },
     {
-      "tag": "new",
-      "count": 10,
-      "categories": [
-        "cities",
-        "travel"
-      ]
-    },
-    {
       "tag": "passchendaele",
       "count": 10,
       "categories": [
         "nature"
+      ]
+    },
+    {
+      "tag": "sketch",
+      "count": 10,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -655,6 +670,13 @@
     },
     {
       "tag": "arizona",
+      "count": 9,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "bangladesh",
       "count": 9,
       "categories": [
         "nature"
@@ -696,10 +718,17 @@
       ]
     },
     {
-      "tag": "sketch",
+      "tag": "n13p",
       "count": 9,
       "categories": [
-        "cities"
+        "travel"
+      ]
+    },
+    {
+      "tag": "sanctuary",
+      "count": 9,
+      "categories": [
+        "wildlife"
       ]
     },
     {
@@ -707,6 +736,21 @@
       "count": 9,
       "categories": [
         "travel"
+      ]
+    },
+    {
+      "tag": "virginia",
+      "count": 9,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "wood",
+      "count": 9,
+      "categories": [
+        "nature",
+        "wildlife"
       ]
     },
     {
@@ -718,17 +762,38 @@
       ]
     },
     {
-      "tag": "bangladesh",
+      "tag": "blyde",
       "count": 8,
       "categories": [
         "nature"
       ]
     },
     {
-      "tag": "june",
+      "tag": "bullet",
       "count": 8,
       "categories": [
-        "travel"
+        "nature"
+      ]
+    },
+    {
+      "tag": "elements",
+      "count": 8,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
+      "tag": "elengi",
+      "count": 8,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "mimusops",
+      "count": 8,
+      "categories": [
+        "nature"
       ]
     },
     {
@@ -747,18 +812,11 @@
       ]
     },
     {
-      "tag": "wood",
+      "tag": "snowy",
       "count": 8,
       "categories": [
         "nature",
         "wildlife"
-      ]
-    },
-    {
-      "tag": "bullet",
-      "count": 7,
-      "categories": [
-        "nature"
       ]
     },
     {
@@ -769,17 +827,10 @@
       ]
     },
     {
-      "tag": "elements",
+      "tag": "galaxy",
       "count": 7,
       "categories": [
-        "cities"
-      ]
-    },
-    {
-      "tag": "elengi",
-      "count": 7,
-      "categories": [
-        "nature"
+        "space"
       ]
     },
     {
@@ -797,17 +848,10 @@
       ]
     },
     {
-      "tag": "mimusops",
+      "tag": "nebula",
       "count": 7,
       "categories": [
-        "nature"
-      ]
-    },
-    {
-      "tag": "n13p",
-      "count": 7,
-      "categories": [
-        "travel"
+        "space"
       ]
     },
     {
@@ -827,13 +871,6 @@
       ]
     },
     {
-      "tag": "sanctuary",
-      "count": 7,
-      "categories": [
-        "wildlife"
-      ]
-    },
-    {
       "tag": "snow",
       "count": 7,
       "categories": [
@@ -841,21 +878,36 @@
       ]
     },
     {
-      "tag": "virginia",
+      "tag": "west",
       "count": 7,
       "categories": [
         "nature"
       ]
     },
     {
-      "tag": "blyde",
+      "tag": "dell",
       "count": 6,
       "categories": [
         "nature"
       ]
     },
     {
-      "tag": "dell",
+      "tag": "detail",
+      "count": 6,
+      "categories": [
+        "cities",
+        "nature"
+      ]
+    },
+    {
+      "tag": "east",
+      "count": 6,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "forestwander",
       "count": 6,
       "categories": [
         "nature"
@@ -904,22 +956,14 @@
       ]
     },
     {
-      "tag": "snowy",
+      "tag": "pillar",
       "count": 6,
       "categories": [
-        "nature",
-        "wildlife"
+        "cities"
       ]
     },
     {
       "tag": "south",
-      "count": 6,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
-      "tag": "west",
       "count": 6,
       "categories": [
         "nature"
@@ -933,7 +977,7 @@
       ]
     },
     {
-      "tag": "detail",
+      "tag": "building",
       "count": 5,
       "categories": [
         "cities",
@@ -941,9 +985,10 @@
       ]
     },
     {
-      "tag": "east",
+      "tag": "district",
       "count": 5,
       "categories": [
+        "cities",
         "nature"
       ]
     },
@@ -952,13 +997,6 @@
       "count": 5,
       "categories": [
         "nature"
-      ]
-    },
-    {
-      "tag": "galaxy",
-      "count": 5,
-      "categories": [
-        "space"
       ]
     },
     {
@@ -997,6 +1035,13 @@
       ]
     },
     {
+      "tag": "marrakesh",
+      "count": 5,
+      "categories": [
+        "travel"
+      ]
+    },
+    {
       "tag": "nahe",
       "count": 5,
       "categories": [
@@ -1004,17 +1049,11 @@
       ]
     },
     {
-      "tag": "nebula",
+      "tag": "panoramio",
       "count": 5,
       "categories": [
-        "space"
-      ]
-    },
-    {
-      "tag": "pillar",
-      "count": 5,
-      "categories": [
-        "cities"
+        "cities",
+        "travel"
       ]
     },
     {
@@ -1055,6 +1094,27 @@
       ]
     },
     {
+      "tag": "1542pm",
+      "count": 4,
+      "categories": [
+        "travel"
+      ]
+    },
+    {
+      "tag": "asola",
+      "count": 4,
+      "categories": [
+        "wildlife"
+      ]
+    },
+    {
+      "tag": "bhati",
+      "count": 4,
+      "categories": [
+        "wildlife"
+      ]
+    },
+    {
       "tag": "byron",
       "count": 4,
       "categories": [
@@ -1062,22 +1122,14 @@
       ]
     },
     {
-      "tag": "district",
+      "tag": "decidua",
       "count": 4,
       "categories": [
-        "cities",
         "nature"
       ]
     },
     {
       "tag": "festival",
-      "count": 4,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
-      "tag": "forestwander",
       "count": 4,
       "categories": [
         "nature"
@@ -1096,6 +1148,28 @@
       "categories": [
         "abstract",
         "nature"
+      ]
+    },
+    {
+      "tag": "horsehead",
+      "count": 4,
+      "categories": [
+        "space"
+      ]
+    },
+    {
+      "tag": "indian",
+      "count": 4,
+      "categories": [
+        "cities",
+        "wildlife"
+      ]
+    },
+    {
+      "tag": "jinja",
+      "count": 4,
+      "categories": [
+        "travel"
       ]
     },
     {
@@ -1120,6 +1194,13 @@
       ]
     },
     {
+      "tag": "larix",
+      "count": 4,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "luftaufnahme",
       "count": 4,
       "categories": [
@@ -1135,6 +1216,20 @@
       ]
     },
     {
+      "tag": "mindbender",
+      "count": 4,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "mukherjee",
+      "count": 4,
+      "categories": [
+        "wildlife"
+      ]
+    },
+    {
       "tag": "music",
       "count": 4,
       "categories": [
@@ -1143,14 +1238,6 @@
     },
     {
       "tag": "palace",
-      "count": 4,
-      "categories": [
-        "cities",
-        "travel"
-      ]
-    },
-    {
-      "tag": "panoramio",
       "count": 4,
       "categories": [
         "cities",
@@ -1195,6 +1282,13 @@
       ]
     },
     {
+      "tag": "tisha",
+      "count": 4,
+      "categories": [
+        "wildlife"
+      ]
+    },
+    {
       "tag": "united",
       "count": 4,
       "categories": [
@@ -1225,6 +1319,13 @@
       ]
     },
     {
+      "tag": "yasaka",
+      "count": 4,
+      "categories": [
+        "travel"
+      ]
+    },
+    {
       "tag": "aerial",
       "count": 3,
       "categories": [
@@ -1247,10 +1348,18 @@
       ]
     },
     {
-      "tag": "building",
+      "tag": "beautiful",
       "count": 3,
       "categories": [
-        "cities"
+        "nature",
+        "space"
+      ]
+    },
+    {
+      "tag": "bourke",
+      "count": 3,
+      "categories": [
+        "nature"
       ]
     },
     {
@@ -1266,6 +1375,21 @@
       "count": 3,
       "categories": [
         "abstract"
+      ]
+    },
+    {
+      "tag": "century",
+      "count": 3,
+      "categories": [
+        "cities",
+        "nature"
+      ]
+    },
+    {
+      "tag": "championships",
+      "count": 3,
+      "categories": [
+        "nature"
       ]
     },
     {
@@ -1290,13 +1414,6 @@
       ]
     },
     {
-      "tag": "decidua",
-      "count": 3,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
       "tag": "dome",
       "count": 3,
       "categories": [
@@ -1309,6 +1426,13 @@
       "count": 3,
       "categories": [
         "abstract"
+      ]
+    },
+    {
+      "tag": "ecsc",
+      "count": 3,
+      "categories": [
+        "nature"
       ]
     },
     {
@@ -1337,6 +1461,20 @@
       "count": 3,
       "categories": [
         "nature"
+      ]
+    },
+    {
+      "tag": "fifteenth",
+      "count": 3,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
+      "tag": "financial",
+      "count": 3,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -1398,13 +1536,6 @@
       ]
     },
     {
-      "tag": "indian",
-      "count": 3,
-      "categories": [
-        "wildlife"
-      ]
-    },
-    {
       "tag": "indigo",
       "count": 3,
       "categories": [
@@ -1419,14 +1550,14 @@
       ]
     },
     {
-      "tag": "laguna",
+      "tag": "islands",
       "count": 3,
       "categories": [
         "nature"
       ]
     },
     {
-      "tag": "larix",
+      "tag": "laguna",
       "count": 3,
       "categories": [
         "nature"
@@ -1456,10 +1587,10 @@
       ]
     },
     {
-      "tag": "marrakesh",
+      "tag": "luck",
       "count": 3,
       "categories": [
-        "travel"
+        "nature"
       ]
     },
     {
@@ -1506,6 +1637,13 @@
       ]
     },
     {
+      "tag": "palm",
+      "count": 3,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "parrots",
       "count": 3,
       "categories": [
@@ -1535,10 +1673,24 @@
       ]
     },
     {
+      "tag": "potholes",
+      "count": 3,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "promenade",
       "count": 3,
       "categories": [
         "cities"
+      ]
+    },
+    {
+      "tag": "reflecting",
+      "count": 3,
+      "categories": [
+        "nature"
       ]
     },
     {
@@ -1565,7 +1717,21 @@
       ]
     },
     {
+      "tag": "surfing",
+      "count": 3,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "taal",
+      "count": 3,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "tree",
       "count": 3,
       "categories": [
         "nature"
@@ -1595,6 +1761,13 @@
       ]
     },
     {
+      "tag": "volleyball",
+      "count": 3,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "white",
       "count": 3,
       "categories": [
@@ -1602,10 +1775,26 @@
       ]
     },
     {
-      "tag": "1542pm",
+      "tag": "women",
+      "count": 3,
+      "categories": [
+        "nature",
+        "travel"
+      ]
+    },
+    {
+      "tag": "world",
+      "count": 3,
+      "categories": [
+        "nature",
+        "space"
+      ]
+    },
+    {
+      "tag": "11th",
       "count": 2,
       "categories": [
-        "travel"
+        "cities"
       ]
     },
     {
@@ -1619,6 +1808,14 @@
       "tag": "21sept2013",
       "count": 2,
       "categories": [
+        "travel"
+      ]
+    },
+    {
+      "tag": "7th",
+      "count": 2,
+      "categories": [
+        "cities",
         "travel"
       ]
     },
@@ -1666,13 +1863,6 @@
       ]
     },
     {
-      "tag": "asola",
-      "count": 2,
-      "categories": [
-        "wildlife"
-      ]
-    },
-    {
       "tag": "australia",
       "count": 2,
       "categories": [
@@ -1687,7 +1877,21 @@
       ]
     },
     {
+      "tag": "badaling",
+      "count": 2,
+      "categories": [
+        "travel"
+      ]
+    },
+    {
       "tag": "bagavathy",
+      "count": 2,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
+      "tag": "bandha",
       "count": 2,
       "categories": [
         "cities"
@@ -1701,14 +1905,6 @@
       ]
     },
     {
-      "tag": "beautiful",
-      "count": 2,
-      "categories": [
-        "nature",
-        "space"
-      ]
-    },
-    {
       "tag": "bengal",
       "count": 2,
       "categories": [
@@ -1716,7 +1912,7 @@
       ]
     },
     {
-      "tag": "bhati",
+      "tag": "brown",
       "count": 2,
       "categories": [
         "wildlife"
@@ -1730,25 +1926,17 @@
       ]
     },
     {
-      "tag": "century",
-      "count": 2,
-      "categories": [
-        "cities",
-        "nature"
-      ]
-    },
-    {
-      "tag": "championships",
-      "count": 2,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
       "tag": "chuka",
       "count": 2,
       "categories": [
         "wildlife"
+      ]
+    },
+    {
+      "tag": "close",
+      "count": 2,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -1791,6 +1979,14 @@
       ]
     },
     {
+      "tag": "door",
+      "count": 2,
+      "categories": [
+        "cities",
+        "travel"
+      ]
+    },
+    {
       "tag": "douglas",
       "count": 2,
       "categories": [
@@ -1802,13 +1998,6 @@
       "count": 2,
       "categories": [
         "cities",
-        "nature"
-      ]
-    },
-    {
-      "tag": "ecsc",
-      "count": 2,
-      "categories": [
         "nature"
       ]
     },
@@ -1838,20 +2027,6 @@
       "count": 2,
       "categories": [
         "nature"
-      ]
-    },
-    {
-      "tag": "fifteenth",
-      "count": 2,
-      "categories": [
-        "cities"
-      ]
-    },
-    {
-      "tag": "financial",
-      "count": 2,
-      "categories": [
-        "cities"
       ]
     },
     {
@@ -1897,6 +2072,13 @@
       "categories": [
         "space",
         "travel"
+      ]
+    },
+    {
+      "tag": "glen",
+      "count": 2,
+      "categories": [
+        "nature"
       ]
     },
     {
@@ -1951,10 +2133,10 @@
       ]
     },
     {
-      "tag": "horsehead",
+      "tag": "hawk",
       "count": 2,
       "categories": [
-        "space"
+        "wildlife"
       ]
     },
     {
@@ -1972,10 +2154,10 @@
       ]
     },
     {
-      "tag": "islands",
+      "tag": "inscriptions",
       "count": 2,
       "categories": [
-        "nature"
+        "travel"
       ]
     },
     {
@@ -1986,10 +2168,10 @@
       ]
     },
     {
-      "tag": "jinja",
+      "tag": "kalasa",
       "count": 2,
       "categories": [
-        "travel"
+        "cities"
       ]
     },
     {
@@ -2004,6 +2186,13 @@
       "count": 2,
       "categories": [
         "travel"
+      ]
+    },
+    {
+      "tag": "kuldiha",
+      "count": 2,
+      "categories": [
+        "wildlife"
       ]
     },
     {
@@ -2080,10 +2269,17 @@
       ]
     },
     {
-      "tag": "mindbender",
+      "tag": "march",
       "count": 2,
       "categories": [
-        "nature"
+        "wildlife"
+      ]
+    },
+    {
+      "tag": "marsfeld",
+      "count": 2,
+      "categories": [
+        "travel"
       ]
     },
     {
@@ -2091,6 +2287,13 @@
       "count": 2,
       "categories": [
         "nature"
+      ]
+    },
+    {
+      "tag": "miri",
+      "count": 2,
+      "categories": [
+        "space"
       ]
     },
     {
@@ -2115,14 +2318,14 @@
       ]
     },
     {
-      "tag": "mukherjee",
+      "tag": "namib",
       "count": 2,
       "categories": [
-        "wildlife"
+        "nature"
       ]
     },
     {
-      "tag": "namib",
+      "tag": "natural",
       "count": 2,
       "categories": [
         "nature"
@@ -2150,6 +2353,14 @@
       ]
     },
     {
+      "tag": "one",
+      "count": 2,
+      "categories": [
+        "nature",
+        "travel"
+      ]
+    },
+    {
       "tag": "ophrys",
       "count": 2,
       "categories": [
@@ -2164,10 +2375,10 @@
       ]
     },
     {
-      "tag": "palm",
+      "tag": "owl",
       "count": 2,
       "categories": [
-        "nature"
+        "wildlife"
       ]
     },
     {
@@ -2207,6 +2418,13 @@
       ]
     },
     {
+      "tag": "phalaka",
+      "count": 2,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "picnic",
       "count": 2,
       "categories": [
@@ -2243,6 +2461,13 @@
       ]
     },
     {
+      "tag": "premiere",
+      "count": 2,
+      "categories": [
+        "space"
+      ]
+    },
+    {
       "tag": "pro",
       "count": 2,
       "categories": [
@@ -2257,7 +2482,7 @@
       ]
     },
     {
-      "tag": "reflecting",
+      "tag": "rain",
       "count": 2,
       "categories": [
         "nature"
@@ -2351,6 +2576,20 @@
       ]
     },
     {
+      "tag": "stream",
+      "count": 2,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "summit",
+      "count": 2,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "sun",
       "count": 2,
       "categories": [
@@ -2363,13 +2602,6 @@
       "count": 2,
       "categories": [
         "travel"
-      ]
-    },
-    {
-      "tag": "surfing",
-      "count": 2,
-      "categories": [
-        "nature"
       ]
     },
     {
@@ -2394,6 +2626,13 @@
       ]
     },
     {
+      "tag": "telescope",
+      "count": 2,
+      "categories": [
+        "space"
+      ]
+    },
+    {
       "tag": "tetouan",
       "count": 2,
       "categories": [
@@ -2412,20 +2651,6 @@
       "count": 2,
       "categories": [
         "cities"
-      ]
-    },
-    {
-      "tag": "tisha",
-      "count": 2,
-      "categories": [
-        "wildlife"
-      ]
-    },
-    {
-      "tag": "tree",
-      "count": 2,
-      "categories": [
-        "nature"
       ]
     },
     {
@@ -2471,13 +2696,6 @@
       ]
     },
     {
-      "tag": "volleyball",
-      "count": 2,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
       "tag": "wadi",
       "count": 2,
       "categories": [
@@ -2492,6 +2710,21 @@
       ]
     },
     {
+      "tag": "weic2411e",
+      "count": 2,
+      "categories": [
+        "space"
+      ]
+    },
+    {
+      "tag": "western",
+      "count": 2,
+      "categories": [
+        "cities",
+        "nature"
+      ]
+    },
+    {
       "tag": "whirinaki",
       "count": 2,
       "categories": [
@@ -2499,33 +2732,10 @@
       ]
     },
     {
-      "tag": "women",
-      "count": 2,
-      "categories": [
-        "nature",
-        "travel"
-      ]
-    },
-    {
-      "tag": "world",
-      "count": 2,
-      "categories": [
-        "nature",
-        "space"
-      ]
-    },
-    {
       "tag": "wyre",
       "count": 2,
       "categories": [
         "nature"
-      ]
-    },
-    {
-      "tag": "yasaka",
-      "count": 2,
-      "categories": [
-        "travel"
       ]
     },
     {
@@ -2537,13 +2747,6 @@
     },
     {
       "tag": "10th",
-      "count": 1,
-      "categories": [
-        "cities"
-      ]
-    },
-    {
-      "tag": "11th",
       "count": 1,
       "categories": [
         "cities"
@@ -2631,13 +2834,6 @@
       "count": 1,
       "categories": [
         "nature"
-      ]
-    },
-    {
-      "tag": "7th",
-      "count": 1,
-      "categories": [
-        "travel"
       ]
     },
     {
@@ -2872,6 +3068,13 @@
       ]
     },
     {
+      "tag": "august",
+      "count": 1,
+      "categories": [
+        "travel"
+      ]
+    },
+    {
       "tag": "aux",
       "count": 1,
       "categories": [
@@ -2921,13 +3124,6 @@
       ]
     },
     {
-      "tag": "badaling",
-      "count": 1,
-      "categories": [
-        "travel"
-      ]
-    },
-    {
       "tag": "badami",
       "count": 1,
       "categories": [
@@ -2946,13 +3142,6 @@
       "count": 1,
       "categories": [
         "wildlife"
-      ]
-    },
-    {
-      "tag": "bandha",
-      "count": 1,
-      "categories": [
-        "cities"
       ]
     },
     {
@@ -3068,14 +3257,14 @@
       ]
     },
     {
-      "tag": "borreraig",
+      "tag": "boracay",
       "count": 1,
       "categories": [
         "nature"
       ]
     },
     {
-      "tag": "bourke",
+      "tag": "borreraig",
       "count": 1,
       "categories": [
         "nature"
@@ -3138,6 +3327,13 @@
       ]
     },
     {
+      "tag": "catalonia",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "cats",
       "count": 1,
       "categories": [
@@ -3156,6 +3352,13 @@
       "count": 1,
       "categories": [
         "wildlife"
+      ]
+    },
+    {
+      "tag": "center",
+      "count": 1,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -3194,6 +3397,13 @@
       ]
     },
     {
+      "tag": "champ",
+      "count": 1,
+      "categories": [
+        "travel"
+      ]
+    },
+    {
       "tag": "check",
       "count": 1,
       "categories": [
@@ -3205,6 +3415,13 @@
       "count": 1,
       "categories": [
         "nature"
+      ]
+    },
+    {
+      "tag": "chester",
+      "count": 1,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -3296,13 +3513,6 @@
       "count": 1,
       "categories": [
         "nature"
-      ]
-    },
-    {
-      "tag": "close",
-      "count": 1,
-      "categories": [
-        "cities"
       ]
     },
     {
@@ -3411,6 +3621,13 @@
       ]
     },
     {
+      "tag": "constructed",
+      "count": 1,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "construction",
       "count": 1,
       "categories": [
@@ -3485,6 +3702,13 @@
       "count": 1,
       "categories": [
         "cities"
+      ]
+    },
+    {
+      "tag": "cumbre",
+      "count": 1,
+      "categories": [
+        "nature"
       ]
     },
     {
@@ -3586,6 +3810,13 @@
       ]
     },
     {
+      "tag": "diplotaxis",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "diverse",
       "count": 1,
       "categories": [
@@ -3607,17 +3838,17 @@
       ]
     },
     {
-      "tag": "door",
-      "count": 1,
-      "categories": [
-        "cities"
-      ]
-    },
-    {
       "tag": "doorways",
       "count": 1,
       "categories": [
         "travel"
+      ]
+    },
+    {
+      "tag": "dravida",
+      "count": 1,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -3782,6 +4013,13 @@
       ]
     },
     {
+      "tag": "erucoides",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "erythrorhynchos",
       "count": 1,
       "categories": [
@@ -3908,6 +4146,13 @@
       ]
     },
     {
+      "tag": "fernandina",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "figurine",
       "count": 1,
       "categories": [
@@ -3964,7 +4209,28 @@
       ]
     },
     {
+      "tag": "flow",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "flowers",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "flowing",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "flume",
       "count": 1,
       "categories": [
         "nature"
@@ -4013,6 +4279,13 @@
       ]
     },
     {
+      "tag": "fruit",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "funerea",
       "count": 1,
       "categories": [
@@ -4021,6 +4294,20 @@
     },
     {
       "tag": "fusca",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "gal",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "galboda",
       "count": 1,
       "categories": [
         "nature"
@@ -4038,6 +4325,13 @@
       "count": 1,
       "categories": [
         "wildlife"
+      ]
+    },
+    {
+      "tag": "gauge",
+      "count": 1,
+      "categories": [
+        "nature"
       ]
     },
     {
@@ -4059,13 +4353,6 @@
       "count": 1,
       "categories": [
         "wildlife"
-      ]
-    },
-    {
-      "tag": "glen",
-      "count": 1,
-      "categories": [
-        "nature"
       ]
     },
     {
@@ -4237,6 +4524,13 @@
       ]
     },
     {
+      "tag": "homes",
+      "count": 1,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "iguana",
       "count": 1,
       "categories": [
@@ -4318,13 +4612,6 @@
       "count": 1,
       "categories": [
         "nature"
-      ]
-    },
-    {
-      "tag": "inscriptions",
-      "count": 1,
-      "categories": [
-        "travel"
       ]
     },
     {
@@ -4451,13 +4738,6 @@
       "count": 1,
       "categories": [
         "wildlife"
-      ]
-    },
-    {
-      "tag": "kalasa",
-      "count": 1,
-      "categories": [
-        "cities"
       ]
     },
     {
@@ -4622,6 +4902,13 @@
       ]
     },
     {
+      "tag": "lava",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "lavender",
       "count": 1,
       "categories": [
@@ -4710,6 +4997,13 @@
       "count": 1,
       "categories": [
         "wildlife"
+      ]
+    },
+    {
+      "tag": "lincoln",
+      "count": 1,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -4804,13 +5098,6 @@
       ]
     },
     {
-      "tag": "luck",
-      "count": 1,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
       "tag": "machaon",
       "count": 1,
       "categories": [
@@ -4867,6 +5154,13 @@
       ]
     },
     {
+      "tag": "manual",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "maria",
       "count": 1,
       "categories": [
@@ -4888,7 +5182,7 @@
       ]
     },
     {
-      "tag": "marsfeld",
+      "tag": "mars",
       "count": 1,
       "categories": [
         "travel"
@@ -4927,6 +5221,13 @@
       "count": 1,
       "categories": [
         "nature"
+      ]
+    },
+    {
+      "tag": "meets",
+      "count": 1,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -5119,6 +5420,13 @@
       ]
     },
     {
+      "tag": "napping",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "narayan",
       "count": 1,
       "categories": [
@@ -5134,13 +5442,6 @@
     },
     {
       "tag": "nasa",
-      "count": 1,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
-      "tag": "natural",
       "count": 1,
       "categories": [
         "nature"
@@ -5203,6 +5504,13 @@
       ]
     },
     {
+      "tag": "nyc",
+      "count": 1,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "oasis",
       "count": 1,
       "categories": [
@@ -5252,13 +5560,6 @@
       ]
     },
     {
-      "tag": "one",
-      "count": 1,
-      "categories": [
-        "travel"
-      ]
-    },
-    {
       "tag": "open",
       "count": 1,
       "categories": [
@@ -5281,6 +5582,20 @@
     },
     {
       "tag": "osprey",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "overhead",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "pagos",
       "count": 1,
       "categories": [
         "nature"
@@ -5364,6 +5679,13 @@
       ]
     },
     {
+      "tag": "paz",
+      "count": 1,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "peking",
       "count": 1,
       "categories": [
@@ -5385,6 +5707,13 @@
       ]
     },
     {
+      "tag": "people",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "perched",
       "count": 1,
       "categories": [
@@ -5393,13 +5722,6 @@
     },
     {
       "tag": "peringamala",
-      "count": 1,
-      "categories": [
-        "cities"
-      ]
-    },
-    {
-      "tag": "phalaka",
       "count": 1,
       "categories": [
         "cities"
@@ -5497,14 +5819,14 @@
       ]
     },
     {
-      "tag": "posed",
+      "tag": "portal",
       "count": 1,
       "categories": [
-        "nature"
+        "travel"
       ]
     },
     {
-      "tag": "potholes",
+      "tag": "posed",
       "count": 1,
       "categories": [
         "nature"
@@ -5518,10 +5840,10 @@
       ]
     },
     {
-      "tag": "premiere",
+      "tag": "preserve",
       "count": 1,
       "categories": [
-        "space"
+        "nature"
       ]
     },
     {
@@ -5756,6 +6078,13 @@
       ]
     },
     {
+      "tag": "rooftop",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "rooftops",
       "count": 1,
       "categories": [
@@ -5764,6 +6093,13 @@
     },
     {
       "tag": "rottnest",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "rounded",
       "count": 1,
       "categories": [
         "nature"
@@ -5868,6 +6204,13 @@
       ]
     },
     {
+      "tag": "self",
+      "count": 1,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "seller",
       "count": 1,
       "categories": [
@@ -5911,6 +6254,13 @@
     },
     {
       "tag": "sharr",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "shed",
       "count": 1,
       "categories": [
         "nature"
@@ -6071,6 +6421,20 @@
       ]
     },
     {
+      "tag": "souqs",
+      "count": 1,
+      "categories": [
+        "travel"
+      ]
+    },
+    {
+      "tag": "spain51025",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "specimens",
       "count": 1,
       "categories": [
@@ -6176,13 +6540,6 @@
       ]
     },
     {
-      "tag": "stream",
-      "count": 1,
-      "categories": [
-        "nature"
-      ]
-    },
-    {
       "tag": "streeterville",
       "count": 1,
       "categories": [
@@ -6211,6 +6568,13 @@
       ]
     },
     {
+      "tag": "style",
+      "count": 1,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "subsp",
       "count": 1,
       "categories": [
@@ -6222,13 +6586,6 @@
       "count": 1,
       "categories": [
         "wildlife"
-      ]
-    },
-    {
-      "tag": "summit",
-      "count": 1,
-      "categories": [
-        "nature"
       ]
     },
     {
@@ -6334,13 +6691,6 @@
       "count": 1,
       "categories": [
         "nature"
-      ]
-    },
-    {
-      "tag": "telescope",
-      "count": 1,
-      "categories": [
-        "space"
       ]
     },
     {
@@ -6484,6 +6834,27 @@
       ]
     },
     {
+      "tag": "trees",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "tudor",
+      "count": 1,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
+      "tag": "tunesia",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "uncovering",
       "count": 1,
       "categories": [
@@ -6547,10 +6918,24 @@
       ]
     },
     {
+      "tag": "versus",
+      "count": 1,
+      "categories": [
+        "cities"
+      ]
+    },
+    {
       "tag": "verticle",
       "count": 1,
       "categories": [
         "wildlife"
+      ]
+    },
+    {
+      "tag": "vesara",
+      "count": 1,
+      "categories": [
+        "cities"
       ]
     },
     {
@@ -6569,6 +6954,13 @@
     },
     {
       "tag": "vijayanrajapuram",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
+      "tag": "visayas",
       "count": 1,
       "categories": [
         "nature"
@@ -6603,6 +6995,13 @@
       ]
     },
     {
+      "tag": "water",
+      "count": 1,
+      "categories": [
+        "nature"
+      ]
+    },
+    {
       "tag": "waterfalls",
       "count": 1,
       "categories": [
@@ -6628,13 +7027,6 @@
       "count": 1,
       "categories": [
         "space"
-      ]
-    },
-    {
-      "tag": "western",
-      "count": 1,
-      "categories": [
-        "cities"
       ]
     },
     {
