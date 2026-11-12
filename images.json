@@ -2243,6 +2243,33 @@
     ]
   },
   {
+    "id": "cities-brooklyn-bridge-from-hudson2-95268213",
+    "name": "Brooklyn Bridge from Hudson2",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/brooklyn-bridge-from-hudson2-95268213.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/brooklyn-bridge-from-hudson2-95268213.webp",
+    "width": 1438,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "TwilightLiliez",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_from_Hudson2.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "bridge",
+      "city",
+      "river",
+      "brooklyn",
+      "hudson2"
+    ]
+  },
+  {
     "id": "cities-brooklyn-bridge-i-3872872131-24859157",
     "name": "Brooklyn Bridge I (3872872131)",
     "category": "cities",
@@ -2266,6 +2293,34 @@
       "city",
       "river",
       "brooklyn"
+    ]
+  },
+  {
+    "id": "cities-brooklyn-bridge-ii-by-rama-vazquez-28204185",
+    "name": "Brooklyn Bridge II. By Rama Vazquez",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/brooklyn-bridge-ii-by-rama-vazquez-28204185.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/brooklyn-bridge-ii-by-rama-vazquez-28204185.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "RamaVazquez",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_II._By_Rama_Vazquez.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "bridge",
+      "city",
+      "river",
+      "brooklyn",
+      "rama",
+      "vazquez"
     ]
   },
   {
@@ -2606,6 +2661,37 @@
     ]
   },
   {
+    "id": "cities-d-day-6th-june-1944-hammersmith-and-fulham-histo-110866457",
+    "name": "D-Day 6th June 1944 (Hammersmith and Fulham Historic Buildings Group)",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/d-day-6th-june-1944-hammersmith-and-fulham-histo-110866457.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/d-day-6th-june-1944-hammersmith-and-fulham-histo-110866457.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Spudgun67",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:D-Day_6th_June_1944_(Hammersmith_and_Fulham_Historic_Buildings_Group).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "historic",
+      "buildings",
+      "street",
+      "day",
+      "6th",
+      "june",
+      "hammersmith",
+      "fulham",
+      "group"
+    ]
+  },
+  {
     "id": "cities-diferent-skyline-72783252",
     "name": "Diferent Skyline",
     "category": "cities",
@@ -2770,6 +2856,66 @@
     ]
   },
   {
+    "id": "cities-finial-after-restoration-salt-lake-city-and-coun-34486410",
+    "name": "Finial after restoration - Salt Lake City and County Building, 451 Washington Square, Salt Lake City, Salt Lake County, UT",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/finial-after-restoration-salt-lake-city-and-coun-34486410.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/finial-after-restoration-salt-lake-city-and-coun-34486410.webp",
+    "width": 1428,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "https://www.loc.gov/pictures/item/ut0168.photos.157895p",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Finial_after_restoration_-_Salt_Lake_City_and_County_Building,_451_Washington_Square,_Salt_Lake_City,_Salt_Lake_County,_UT_HABS_UTAH,18-SALCI,23-3.tif",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "city",
+      "skyline",
+      "architecture",
+      "finial",
+      "after",
+      "restoration",
+      "salt",
+      "lake",
+      "county"
+    ]
+  },
+  {
+    "id": "cities-finial-before-restoration-date-unknown-salt-lake-34486411",
+    "name": "Finial before restoration (date unknown) - Salt Lake City and County Building, 451 Washington Square, Salt Lake City, Salt Lake County, UT",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/finial-before-restoration-date-unknown-salt-lake-34486411.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/finial-before-restoration-date-unknown-salt-lake-34486411.webp",
+    "width": 1601,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "https://www.loc.gov/pictures/item/ut0168.photos.157894p",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Finial_before_restoration_(date_unknown)_-_Salt_Lake_City_and_County_Building,_451_Washington_Square,_Salt_Lake_City,_Salt_Lake_County,_UT_HABS_UTAH,18-SALCI,23-2.tif",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "city",
+      "skyline",
+      "architecture",
+      "finial",
+      "before",
+      "restoration",
+      "date",
+      "unknown",
+      "salt"
+    ]
+  },
+  {
     "id": "cities-hammersmith-drawdock-plaque-hammersmith-and-fulh-110865636",
     "name": "Hammersmith Drawdock plaque (Hammersmith and Fulham Historic Buildings Group)",
     "category": "cities",
@@ -2852,6 +2998,36 @@
       "board",
       "sidewalk",
       "california"
+    ]
+  },
+  {
+    "id": "cities-historic-american-buildings-survey-wells-fargo-b-33733730",
+    "name": "Historic American Buildings Survey Wells Fargo Bank Historical Museum 1852 WEST ELEVATION - Wells Fargo and Company Building, Historic View, 114 Montgomery Street, San Francisco, San Francisco County, CA",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/historic-american-buildings-survey-wells-fargo-b-33733730.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/historic-american-buildings-survey-wells-fargo-b-33733730.webp",
+    "width": 1370,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "https://www.loc.gov/pictures/item/ca0747.photos.016918p",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Historic_American_Buildings_Survey_Wells_Fargo_Bank_Historical_Museum_1852_WEST_ELEVATION_-_Wells_Fargo_and_Company_Building,_Historic_View,_114_Montgomery_Street,_San_HABS_CAL,38-SANFRA,63-1.tif",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "historic",
+      "buildings",
+      "street",
+      "american",
+      "survey",
+      "wells",
+      "fargo",
+      "bank",
+      "historical"
     ]
   },
   {
@@ -3125,6 +3301,32 @@
       "license": "CC BY-SA 3.0",
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Kottiyoor_Temple_Festival_(37326).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "temple",
+      "architecture",
+      "kottiyoor",
+      "festival"
+    ]
+  },
+  {
+    "id": "cities-kottiyoor-temple-festival-98392-196558263",
+    "name": "Kottiyoor Temple Festival (98392)",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/kottiyoor-temple-festival-98392-196558263.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/kottiyoor-temple-festival-98392-196558263.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Manukrishnan80",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Kottiyoor_Temple_Festival_(98392).jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
@@ -4035,6 +4237,32 @@
     ]
   },
   {
+    "id": "cities-temple-architecture-in-arkot-uttarakhand-175714285",
+    "name": "Temple architecture in Arkot Uttarakhand",
+    "category": "cities",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Cities/temple-architecture-in-arkot-uttarakhand-175714285.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Cities/temple-architecture-in-arkot-uttarakhand-175714285.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "BhotaRohit",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Temple_architecture_in_Arkot_Uttarakhand.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "cities",
+      "temple",
+      "architecture",
+      "arkot",
+      "uttarakhand"
+    ]
+  },
+  {
     "id": "cities-temple-door-jamb-right-part-10th-11th-century-128688635",
     "name": "Temple Door Jamb, Right Part, 10th-11th Century",
     "category": "cities",
@@ -4358,6 +4586,32 @@
       "sky",
       "stars",
       "festival"
+    ]
+  },
+  {
+    "id": "nature-a-night-full-of-stars-71783297",
+    "name": "A Night Full Of Stars",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/a-night-full-of-stars-71783297.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/a-night-full-of-stars-71783297.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Georg Krewenka",
+      "license": "CC BY 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:A_Night_Full_Of_Stars_(65502293).jpeg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "night",
+      "sky",
+      "stars",
+      "full"
     ]
   },
   {
@@ -4736,6 +4990,32 @@
       "astronomy",
       "coloured",
       "engraving"
+    ]
+  },
+  {
+    "id": "nature-autumn-2017-in-passchendaele-state-forest-01-58319185",
+    "name": "Autumn 2017 in Passchendaele State Forest 01",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/autumn-2017-in-passchendaele-state-forest-01-58319185.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/autumn-2017-in-passchendaele-state-forest-01-58319185.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Kgbo",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Autumn_2017_in_Passchendaele_State_Forest_01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "autumn",
+      "forest",
+      "passchendaele",
+      "state"
     ]
   },
   {
@@ -5326,6 +5606,68 @@
     ]
   },
   {
+    "id": "nature-beach-volleyball-ecsc-east-coast-surfing-champio-70406002",
+    "name": "Beach Volleyball - ECSC East Coast Surfing Championships Virginia Beach women (36723528040)",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/beach-volleyball-ecsc-east-coast-surfing-champio-70406002.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/beach-volleyball-ecsc-east-coast-surfing-champio-70406002.webp",
+    "width": 1527,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "C Watts",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Beach_Volleyball_-_ECSC_East_Coast_Surfing_Championships_Virginia_Beach_women_(36723528040).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "beach",
+      "coast",
+      "volleyball",
+      "ecsc",
+      "east",
+      "surfing",
+      "championships",
+      "virginia",
+      "women"
+    ]
+  },
+  {
+    "id": "nature-beach-volleyball-ecsc-east-coast-surfing-champio-70406004",
+    "name": "Beach Volleyball - ECSC East Coast Surfing Championships Virginia Beach women (36932955036)",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/beach-volleyball-ecsc-east-coast-surfing-champio-70406004.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/beach-volleyball-ecsc-east-coast-surfing-champio-70406004.webp",
+    "width": 1459,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "C Watts",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Beach_Volleyball_-_ECSC_East_Coast_Surfing_Championships_Virginia_Beach_women_(36932955036).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "beach",
+      "coast",
+      "volleyball",
+      "ecsc",
+      "east",
+      "surfing",
+      "championships",
+      "virginia",
+      "women"
+    ]
+  },
+  {
     "id": "nature-beach-volleyball-ecsc-east-coast-surfing-champio-70406065",
     "name": "Beach Volleyball - ECSC East Coast Surfing Championships Virginia Beach women (37248009785)",
     "category": "nature",
@@ -5380,6 +5722,33 @@
       "sky",
       "stars",
       "beautiful"
+    ]
+  },
+  {
+    "id": "nature-bellardia-trixago-var-flaviflora-flower-closeup-5588924",
+    "name": "Bellardia trixago var. flaviflora flower Closeup DehesaBoyaldePuertollano",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/bellardia-trixago-var-flaviflora-flower-closeup-5588924.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/bellardia-trixago-var-flaviflora-flower-closeup-5588924.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Javier martin",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Bellardia_trixago_var._flaviflora_flower_Closeup_DehesaBoyaldePuertollano.jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "flower",
+      "bellardia",
+      "trixago",
+      "var",
+      "flaviflora",
+      "dehesaboyaldepuertollano"
     ]
   },
   {
@@ -6608,6 +6977,36 @@
     ]
   },
   {
+    "id": "nature-detail-of-new-rain-shed-building-no-241-showing-33940740",
+    "name": "Detail of new rain shed (Building No. 241) showing underside of flume. - Hawaii Volcanoes National Park Water Collection System, Hawaii Volcanoes National Park, Volcano, Hawaii County, HI",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/detail-of-new-rain-shed-building-no-241-showing-33940740.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/detail-of-new-rain-shed-building-no-241-showing-33940740.webp",
+    "width": 1553,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Croteau, Todd A. Related names: Civilian Conservation Corps; National Park Service Western Office, Division of Design and Construction; National Park Service Regional Office; Terminal Steel Company, Ltd.; General Services Administration; Pittsburg-Des Moines Steel Company; P.E. Pell Company; San Juan Construction, Inc.; Sonomura, H; Leavitt, E P; Vint, Thomas; Wosky, John B; Hommon, H B; Wingate, Edward P; Tomlinson, O A; Oberhansley, Frank; Tolson, Hillory; Wartime Assets Administration; Harrison, Z D; Modern Painting Company; Robert A. Taft Sanitary Engineering Center; Hawaii Planing Mill Ltd.; Christianson, Justine, transmitter; Schuster, Laura, sponsor; Hawaii Volcanoes National Park, sponsor; Croteau, Todd, project manager; Croteau, Todd, transmitter",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Detail_of_new_rain_shed_(Building_No._241)_showing_underside_of_flume._-_Hawaii_Volcanoes_National_Park_Water_Collection_System,_Hawaii_Volcanoes_National_Park,_Volcano,_Hawaii_County,_HAER_HI-76-19.tif",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "volcano",
+      "detail",
+      "new",
+      "rain",
+      "shed",
+      "building",
+      "showing",
+      "underside",
+      "flume"
+    ]
+  },
+  {
     "id": "nature-digitalis-mariana-flower-closeup-sierramadrona-5015131",
     "name": "Digitalis mariana Flower Closeup SierraMadrona",
     "category": "nature",
@@ -6736,6 +7135,35 @@
       "dune",
       "abu",
       "dhabi"
+    ]
+  },
+  {
+    "id": "nature-dune-formation-namib-skeleton-coast-37504506320-76080516",
+    "name": "Dune Formation Namib Skeleton Coast (37504506320)",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/dune-formation-namib-skeleton-coast-37504506320-76080516.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/dune-formation-namib-skeleton-coast-37504506320-76080516.webp",
+    "width": 1390,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Sonse",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Dune_Formation_Namib_Skeleton_Coast_(37504506320).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "desert",
+      "dunes",
+      "dune",
+      "formation",
+      "namib",
+      "skeleton",
+      "coast"
     ]
   },
   {
@@ -7362,6 +7790,32 @@
       "waterfall",
       "geograph",
       "org"
+    ]
+  },
+  {
+    "id": "nature-fumaria-officinalis-flower-closeup-28march2009-d-8296143",
+    "name": "Fumaria officinalis Flower Closeup 28March2009 DehesaBoyalPuertollano",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/fumaria-officinalis-flower-closeup-28march2009-d-8296143.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/fumaria-officinalis-flower-closeup-28march2009-d-8296143.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Javier martin",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Fumaria_officinalis_Flower_Closeup_28March2009_DehesaBoyalPuertollano.jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "flower",
+      "fumaria",
+      "officinalis",
+      "28march2009",
+      "dehesaboyalpuertollano"
     ]
   },
   {
@@ -9036,6 +9490,32 @@
     ]
   },
   {
+    "id": "nature-marslisborg-forests-in-autumn-29825097",
+    "name": "Marslisborg Forests in autumn.",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/marslisborg-forests-in-autumn-29825097.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/marslisborg-forests-in-autumn-29825097.webp",
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "RhinoMind",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Marslisborg_Forests_in_autumn..jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "autumn",
+      "forest",
+      "marslisborg",
+      "forests"
+    ]
+  },
+  {
     "id": "nature-mayon-volcano-view-119175124",
     "name": "Mayon Volcano View",
     "category": "nature",
@@ -9132,6 +9612,34 @@
       "beach",
       "coast",
       "mersin"
+    ]
+  },
+  {
+    "id": "nature-milkyway-stars-universe-india-1-12-121480083",
+    "name": "Milkyway stars Universe India (1) 12",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/milkyway-stars-universe-india-1-12-121480083.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/milkyway-stars-universe-india-1-12-121480083.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Nikhil More",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Milkyway_stars_Universe_India_(1)_12.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "night",
+      "sky",
+      "stars",
+      "milkyway",
+      "universe",
+      "india"
     ]
   },
   {
@@ -9511,6 +10019,34 @@
     ]
   },
   {
+    "id": "nature-namibia-fish-river-canyon-quiver-tree-32246689",
+    "name": "Namibia Fish River Canyon-Quiver Tree",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/namibia-fish-river-canyon-quiver-tree-32246689.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/namibia-fish-river-canyon-quiver-tree-32246689.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Ralf Junghanns",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Namibia_Fish_River_Canyon-Quiver_Tree.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "river",
+      "canyon",
+      "namibia",
+      "fish",
+      "quiver",
+      "tree"
+    ]
+  },
+  {
     "id": "nature-napping-in-the-dunes-16714034840-64192212",
     "name": "Napping in the Dunes (16714034840)",
     "category": "nature",
@@ -9533,6 +10069,35 @@
       "desert",
       "dunes",
       "napping"
+    ]
+  },
+  {
+    "id": "nature-natural-waterfall-cascading-through-forest-canop-196234791",
+    "name": "Natural waterfall cascading through forest canopy in Kerala",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/natural-waterfall-cascading-through-forest-canop-196234791.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/natural-waterfall-cascading-through-forest-canop-196234791.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "LiteraryDP",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Natural_waterfall_cascading_through_forest_canopy_in_Kerala.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "forest",
+      "waterfall",
+      "natural",
+      "cascading",
+      "through",
+      "canopy",
+      "kerala"
     ]
   },
   {
@@ -9975,6 +10540,66 @@
     ]
   },
   {
+    "id": "nature-rivers-and-canyon-scenes-at-dinosaur-national-mo-81512531",
+    "name": "Rivers and canyon scenes at Dinosaur National Monument, Colorado and Utah",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/rivers-and-canyon-scenes-at-dinosaur-national-mo-81512531.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/rivers-and-canyon-scenes-at-dinosaur-national-mo-81512531.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "NPS staff",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Rivers_and_canyon_scenes_at_Dinosaur_National_Monument,_Colorado_and_Utah_(12bc1070-879a-4dec-b742-d357b64cada2).jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "river",
+      "canyon",
+      "rivers",
+      "scenes",
+      "dinosaur",
+      "national",
+      "monument",
+      "colorado",
+      "utah"
+    ]
+  },
+  {
+    "id": "nature-rock-shoulder-work-from-loose-photographs-collec-33919080",
+    "name": "ROCK SHOULDER WORK. FROM LOOSE PHOTOGRAPHS COLLECTION. c. 1931-1932. - Hawaii Volcanoes National Park Roads, Volcano, Hawaii County, HI",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/rock-shoulder-work-from-loose-photographs-collec-33919080.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/rock-shoulder-work-from-loose-photographs-collec-33919080.webp",
+    "width": 1550,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "https://www.loc.gov/pictures/item/hi0541.photos.195454p",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:ROCK_SHOULDER_WORK._FROM_LOOSE_PHOTOGRAPHS_COLLECTION._c._1931-1932._-_Hawaii_Volcanoes_National_Park_Roads,_Volcano,_Hawaii_County,_HI_HAER_HI-47-1.tif",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "volcano",
+      "rock",
+      "shoulder",
+      "loose",
+      "photographs",
+      "collection",
+      "hawaii",
+      "volcanoes",
+      "national"
+    ]
+  },
+  {
     "id": "nature-rocky-coastline-view-of-kauai-island-united-stat-195205856",
     "name": "(Rocky coastline view of Kauai Island, United States) - DPLA - e0f2c7229927945e946e674808196fcc",
     "category": "nature",
@@ -10391,6 +11016,32 @@
       "night",
       "sky",
       "stars"
+    ]
+  },
+  {
+    "id": "nature-small-waterfall-in-forest-title-113224965",
+    "name": "Small Waterfall in Forest title",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/small-waterfall-in-forest-title-113224965.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/small-waterfall-in-forest-title-113224965.webp",
+    "width": 1422,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Thomas Sully",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Thomas_Sully_-_Small_Waterfall_in_Forest_-_B1981.25.2756_-_Yale_Center_for_British_Art.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "forest",
+      "waterfall",
+      "small",
+      "title"
     ]
   },
   {
@@ -10873,6 +11524,31 @@
       "westport",
       "westland",
       "south"
+    ]
+  },
+  {
+    "id": "nature-the-desert-sunrise-148271557",
+    "name": "The desert sunrise",
+    "category": "nature",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Nature/the-desert-sunrise-148271557.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Nature/the-desert-sunrise-148271557.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Tms2007",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:The_desert_sunrise.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "nature",
+      "desert",
+      "dunes",
+      "sunrise"
     ]
   },
   {
@@ -11740,6 +12416,37 @@
     ]
   },
   {
+    "id": "space-30-doradus-the-tarantula-nebula-in-the-large-mag-139654441",
+    "name": "30 Doradus, the Tarantula Nebula, in the Large Magellanic Cloud (LMC) (noao-30-doradus)",
+    "category": "space",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/30-doradus-the-tarantula-nebula-in-the-large-mag-139654441.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/30-doradus-the-tarantula-nebula-in-the-large-mag-139654441.webp",
+    "width": 1542,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "S. Points, C. Smith, R. Leiton, C. Aguilera and NOIRLab/ NSF /AURA",
+      "license": "CC BY 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:30_Doradus,_the_Tarantula_Nebula,_in_the_Large_Magellanic_Cloud_(LMC)_(noao-30-doradus).tiff",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "space",
+      "nebula",
+      "galaxy",
+      "stars",
+      "doradus",
+      "tarantula",
+      "large",
+      "magellanic",
+      "cloud",
+      "lmc"
+    ]
+  },
+  {
     "id": "space-a-beautiful-planet-world-premiere-nhq20160416000-48357059",
     "name": "'A Beautiful Planet' World Premiere (NHQ201604160002)",
     "category": "space",
@@ -11953,6 +12660,35 @@
       "lro",
       "full",
       "res"
+    ]
+  },
+  {
+    "id": "space-galaxy-laser-night-light-projector-202762401",
+    "name": "Galaxy laser night light projector",
+    "category": "space",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/galaxy-laser-night-light-projector-202762401.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/galaxy-laser-night-light-projector-202762401.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "JanuaryFebruaryMarchAndApril",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Galaxy_laser_night_light_projector.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "space",
+      "nebula",
+      "galaxy",
+      "stars",
+      "laser",
+      "night",
+      "light",
+      "projector"
     ]
   },
   {
@@ -12191,6 +12927,62 @@
       "earth",
       "mother",
       "figurine"
+    ]
+  },
+  {
+    "id": "space-mother-earth-oil-on-canvas-52x33cm-2012-44564528",
+    "name": "Mother Earth, oil on canvas. 52X33cm. 2012",
+    "category": "space",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/mother-earth-oil-on-canvas-52x33cm-2012-44564528.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/mother-earth-oil-on-canvas-52x33cm-2012-44564528.webp",
+    "width": 1203,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Adrianos777",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Mother_Earth,_oil_on_canvas._52X33cm._2012.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "space",
+      "planet",
+      "earth",
+      "mother",
+      "oil",
+      "canvas",
+      "52x33cm"
+    ]
+  },
+  {
+    "id": "space-mother-earth-sculpture-of-na-ndor-wagner-budapes-52050627",
+    "name": "Mother Earth, sculpture of Nándor Wagner, Budapest",
+    "category": "space",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Space/mother-earth-sculpture-of-na-ndor-wagner-budapes-52050627.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Space/mother-earth-sculpture-of-na-ndor-wagner-budapes-52050627.webp",
+    "width": 1370,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Szilas",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Mother_Earth,_sculpture_of_N%C3%A1ndor_Wagner,_Budapest.jpg",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "space",
+      "planet",
+      "earth",
+      "mother",
+      "sculpture",
+      "ndor",
+      "wagner",
+      "budapest"
     ]
   },
   {
@@ -12968,6 +13760,56 @@
     ]
   },
   {
+    "id": "travel-eiffel-tower-125-46727025",
+    "name": "Eiffel tower (125)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/eiffel-tower-125-46727025.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/eiffel-tower-125-46727025.webp",
+    "width": 1255,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "This photograph was taken by Rijin S and released under the license stated below. You are free to use it for any purpose as long as you credit the author ( Rijin S ), the Source (Wikimedia Commons), the license (CC-BY-SA 4.0) in close relation to the image and send me a message This image is not public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. If you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract . Attribution ( required by the license ) InfoField © Rijin S/ Wikimedia Commons / CC BY-SA 4.0 InfoField © Rijin S/ Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_(125).JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "eiffel",
+      "tower",
+      "paris"
+    ]
+  },
+  {
+    "id": "travel-eiffel-tower-372-46873325",
+    "name": "Eiffel tower (372)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/eiffel-tower-372-46873325.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/eiffel-tower-372-46873325.webp",
+    "width": 1523,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "This photograph was taken by Rijin S and released under the license stated below. You are free to use it for any purpose as long as you credit the author ( Rijin S ), the Source (Wikimedia Commons), the license (CC-BY-SA 4.0) in close relation to the image and send me a message This image is not public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. If you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract . Attribution ( required by the license ) InfoField © Rijin S/ Wikimedia Commons / CC BY-SA 4.0 InfoField © Rijin S/ Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_(372).JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "eiffel",
+      "tower",
+      "paris"
+    ]
+  },
+  {
     "id": "travel-eiffel-tower-from-champ-de-mars-7-august-2017-61550479",
     "name": "Eiffel Tower from Champ-de-Mars, 7 August 2017",
     "category": "travel",
@@ -13509,6 +14351,31 @@
     ]
   },
   {
+    "id": "travel-great-wall-of-china-1351074364-80153332",
+    "name": "Great Wall of China (1351074364)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/great-wall-of-china-1351074364-80153332.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/great-wall-of-china-1351074364-80153332.webp",
+    "width": 1200,
+    "height": 1600,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Stephanie Kroos from Glattfelden, CH",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_(1351074364).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "great",
+      "wall",
+      "china"
+    ]
+  },
+  {
     "id": "travel-great-wall-of-china-1351075950-80153336",
     "name": "Great Wall of China (1351075950)",
     "category": "travel",
@@ -13870,6 +14737,33 @@
       "china",
       "juyong",
       "pass9"
+    ]
+  },
+  {
+    "id": "travel-great-wall-of-china-at-simatai-march-2000-06-82587095",
+    "name": "Great Wall of China at Simatai, March 2000 06",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/great-wall-of-china-at-simatai-march-2000-06-82587095.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/great-wall-of-china-at-simatai-march-2000-06-82587095.webp",
+    "width": 1245,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Calistemon",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_at_Simatai,_March_2000_06.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "great",
+      "wall",
+      "china",
+      "simatai",
+      "march"
     ]
   },
   {
@@ -14496,6 +15390,36 @@
     ]
   },
   {
+    "id": "travel-jp-japan-kyoto-yasaka-jinja-shrine-1542pm-june-2-198021074",
+    "name": "JP 日本 Japan 京都 Kyoto 八阪神社 Yasaka-Jinja Shrine 1542pm June 2026 N13P 215",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/jp-japan-kyoto-yasaka-jinja-shrine-1542pm-june-2-198021074.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/jp-japan-kyoto-yasaka-jinja-shrine-1542pm-june-2-198021074.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "HAGAT hOMSZE",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E5%85%AB%E9%98%AA%E7%A5%9E%E7%A4%BE_Yasaka-Jinja_Shrine_1542pm_June_2026_N13P_215.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "kyoto",
+      "shrine",
+      "japan",
+      "yasaka",
+      "jinja",
+      "1542pm",
+      "june",
+      "n13p"
+    ]
+  },
+  {
     "id": "travel-jp-japan-kyoto-yasaka-jinja-shrine-1542pm-june-2-198021081",
     "name": "JP 日本 Japan 京都 Kyoto 八阪神社 Yasaka-Jinja Shrine 1542pm June 2026 N13P 219",
     "category": "travel",
@@ -14540,6 +15464,36 @@
       "license": "CC0",
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E5%85%AB%E9%98%AA%E7%A5%9E%E7%A4%BE_Yasaka-Jinja_Shrine_1542pm_June_2026_N13P_231.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "kyoto",
+      "shrine",
+      "japan",
+      "yasaka",
+      "jinja",
+      "1542pm",
+      "june",
+      "n13p"
+    ]
+  },
+  {
+    "id": "travel-jp-japan-kyoto-yasaka-jinja-shrine-1542pm-june-2-198021105",
+    "name": "JP 日本 Japan 京都 Kyoto 八阪神社 Yasaka-Jinja Shrine 1542pm June 2026 N13P 232",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/jp-japan-kyoto-yasaka-jinja-shrine-1542pm-june-2-198021105.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/jp-japan-kyoto-yasaka-jinja-shrine-1542pm-june-2-198021105.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "HAGAT hOMSZE",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E5%85%AB%E9%98%AA%E7%A5%9E%E7%A4%BE_Yasaka-Jinja_Shrine_1542pm_June_2026_N13P_232.jpg",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
@@ -15148,6 +16102,60 @@
     ]
   },
   {
+    "id": "travel-machu-picchu-with-huayna-picchu-pe-rou-4-46686367",
+    "name": "Machu Picchu with Huayna Picchu Pérou (4)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/machu-picchu-with-huayna-picchu-pe-rou-4-46686367.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/machu-picchu-with-huayna-picchu-pe-rou-4-46686367.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "PIERRE ANDRE LECLERCQ",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Machu_Picchu_with_Huayna_Picchu_P%C3%A9rou_(4).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "machu",
+      "picchu",
+      "peru",
+      "huayna",
+      "rou"
+    ]
+  },
+  {
+    "id": "travel-machu-picchu-with-huayna-picchu-pe-rou-5-46686371",
+    "name": "Machu Picchu with Huayna Picchu Pérou (5)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/machu-picchu-with-huayna-picchu-pe-rou-5-46686371.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/machu-picchu-with-huayna-picchu-pe-rou-5-46686371.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "PIERRE ANDRE LECLERCQ",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Machu_Picchu_with_Huayna_Picchu_P%C3%A9rou_(5).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "machu",
+      "picchu",
+      "peru",
+      "huayna",
+      "rou"
+    ]
+  },
+  {
     "id": "travel-main-dome-of-taj-mahal-palace-hotel-13073420",
     "name": "Main Dome of Taj Mahal Palace Hotel",
     "category": "travel",
@@ -15217,6 +16225,35 @@
       "license": "CC BY-SA 4.0",
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Marrakesh_Medina_around_Bab-Doukkala_1.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "marrakech",
+      "medina",
+      "morocco",
+      "marrakesh",
+      "around",
+      "bab",
+      "doukkala"
+    ]
+  },
+  {
+    "id": "travel-marrakesh-medina-around-bab-doukkala-3-137594336",
+    "name": "Marrakesh Medina around Bab-Doukkala 3",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/marrakesh-medina-around-bab-doukkala-3-137594336.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/marrakesh-medina-around-bab-doukkala-3-137594336.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Ymblanter",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Marrakesh_Medina_around_Bab-Doukkala_3.jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
@@ -15602,6 +16639,37 @@
       "license": "CC BY 2.0",
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Morocco_Marrakech_-_Scene_of_daily_life_in_the_medina_-_Sc%C3%A8ne_de_la_vie_quotidienne_dans_la_m%C3%A9dina_-_Photo_Image_Photography_(9127761612).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "marrakech",
+      "medina",
+      "morocco",
+      "scene",
+      "daily",
+      "life",
+      "vie",
+      "quotidienne",
+      "dans"
+    ]
+  },
+  {
+    "id": "travel-morocco-marrakech-scene-of-daily-life-in-the-med-37313868",
+    "name": "Morocco Marrakech - Scene of daily life in the medina - Scène de la vie quotidienne dans la médina - Photo Image Photography (9127765576)",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/morocco-marrakech-scene-of-daily-life-in-the-med-37313868.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/morocco-marrakech-scene-of-daily-life-in-the-med-37313868.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Grand Parc - Bordeaux, France from France",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Morocco_Marrakech_-_Scene_of_daily_life_in_the_medina_-_Sc%C3%A8ne_de_la_vie_quotidienne_dans_la_m%C3%A9dina_-_Photo_Image_Photography_(9127765576).jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
@@ -16029,6 +17097,31 @@
     ]
   },
   {
+    "id": "travel-taj-mahal-2011-02-18069337",
+    "name": "Taj Mahal 2011 02",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/taj-mahal-2011-02-18069337.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/taj-mahal-2011-02-18069337.webp",
+    "width": 1280,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Vetra",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_2011_02.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "taj",
+      "mahal",
+      "india"
+    ]
+  },
+  {
     "id": "travel-taj-mahal-2023-136744999",
     "name": "TAJ MAHAL 2023",
     "category": "travel",
@@ -16300,6 +17393,31 @@
       "license": "CC BY-SA 4.0",
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_view_26.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "travel",
+      "taj",
+      "mahal",
+      "india"
+    ]
+  },
+  {
+    "id": "travel-taj-mahal-view-45-139475711",
+    "name": "Taj Mahal view 45",
+    "category": "travel",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Travel/taj-mahal-view-45-139475711.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Travel/taj-mahal-view-45-139475711.webp",
+    "width": 1440,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Athulvis",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_view_45.jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
@@ -16944,6 +18062,68 @@
     ]
   },
   {
+    "id": "wildlife-brown-hawk-owl-in-kuldiha-wildlife-sanctuary-mar-161860197",
+    "name": "Brown Hawk-Owl in Kuldiha Wildlife Sanctuary March 2025 by Tisha Mukherjee 02",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/brown-hawk-owl-in-kuldiha-wildlife-sanctuary-mar-161860197.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/brown-hawk-owl-in-kuldiha-wildlife-sanctuary-mar-161860197.webp",
+    "width": 1535,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Brown_Hawk-Owl_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_02.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "bird",
+      "brown",
+      "hawk",
+      "owl",
+      "kuldiha",
+      "sanctuary",
+      "march",
+      "tisha",
+      "mukherjee"
+    ]
+  },
+  {
+    "id": "wildlife-brown-hawk-owl-in-kuldiha-wildlife-sanctuary-mar-161860199",
+    "name": "Brown Hawk-Owl in Kuldiha Wildlife Sanctuary March 2025 by Tisha Mukherjee 01",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/brown-hawk-owl-in-kuldiha-wildlife-sanctuary-mar-161860199.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/brown-hawk-owl-in-kuldiha-wildlife-sanctuary-mar-161860199.webp",
+    "width": 1535,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Brown_Hawk-Owl_in_Kuldiha_Wildlife_Sanctuary_March_2025_by_Tisha_Mukherjee_01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "bird",
+      "brown",
+      "hawk",
+      "owl",
+      "kuldiha",
+      "sanctuary",
+      "march",
+      "tisha",
+      "mukherjee"
+    ]
+  },
+  {
     "id": "wildlife-brown-hawk-owl-in-kuldiha-wildlife-sanctuary-mar-161860217",
     "name": "Brown Hawk-Owl in Kuldiha Wildlife Sanctuary March 2025 by Tisha Mukherjee 05",
     "category": "wildlife",
@@ -17057,6 +18237,33 @@
     ]
   },
   {
+    "id": "wildlife-butterfly-park-asola-bhati-11-154716159",
+    "name": "Butterfly Park, Asola Bhati 11",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/butterfly-park-asola-bhati-11-154716159.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/butterfly-park-asola-bhati-11-154716159.webp",
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "कृष्ण कान्त शर्मा",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Butterfly_Park,_Asola_Bhati_11.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "butterfly",
+      "insect",
+      "park",
+      "asola",
+      "bhati"
+    ]
+  },
+  {
     "id": "wildlife-butterfly-park-asola-bhati-13-154716251",
     "name": "Butterfly Park, Asola Bhati 13",
     "category": "wildlife",
@@ -17152,6 +18359,33 @@
       "license": "CC BY-SA 4.0",
       "source": "Wikimedia Commons",
       "url": "https://commons.wikimedia.org/wiki/File:Butterfly_Park,_Asola_Bhati_2.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Converted to WebP and resized without cropping; composition preserved."
+    },
+    "tags": [
+      "wildlife",
+      "butterfly",
+      "insect",
+      "park",
+      "asola",
+      "bhati"
+    ]
+  },
+  {
+    "id": "wildlife-butterfly-park-asola-bhati-22-154728261",
+    "name": "Butterfly Park, Asola Bhati 22",
+    "category": "wildlife",
+    "url": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/wallpapers/Wildlife/butterfly-park-asola-bhati-22-154728261.webp",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/thumbnails/Wildlife/butterfly-park-asola-bhati-22-154728261.webp",
+    "width": 1080,
+    "height": 1920,
+    "orientation": "portrait",
+    "format": "webp",
+    "credit": {
+      "author": "कृष्ण कान्त शर्मा",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Butterfly_Park,_Asola_Bhati_22.jpg",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "changes": "Converted to WebP and resized without cropping; composition preserved."
     },
