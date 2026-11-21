@@ -1,0 +1,63 @@
+name: Squash history
+
+# Keeps the repository at exactly one commit.
+#
+# Every import, dedupe or thumbnail regeneration adds a commit, and each one
+# stores a fresh copy of images.json, tags-index.json and the thumbnails. Over
+# months that pack grows past the CDN's size ceiling and jsDelivr starts
+# refusing files. This collapses the branch back to a single root commit, so
+# the pack only ever holds the current tree.
+#
+# Content is never touched: the orphan branch is built from a checkout of the
+# current main, so every file is carried across unchanged.
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Sundays at 04:00 UTC.
+    - cron: "0 4 * * 0"
+
+permissions:
+  contents: write
+
+concurrency:
+  # Same group as the other catalog writers, so a squash can never land in the
+  # middle of an import or an index regeneration.
+  group: catalog-write
+  cancel-in-progress: false
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout (latest tree only)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Collapse to a single root commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          before=$(git rev-list --count HEAD)
+          echo "commits before: $before"
+
+          git checkout --orphan clean-history
+          git add -A
+          git commit -m "Initial commit (history collapsed automatically)"
+
+          git branch -M clean-history main
+
+          # Retry once: another run could push between checkout and here.
+          if ! git push --force origin main; then
+            echo "Push rejected, refetching and retrying once"
+            git fetch origin main
+            git reset --soft origin/main
+            git commit -m "Initial commit (history collapsed automatically)" || true
+            git push --force origin main
+          fi
+
+          echo "History collapsed; main is a single root commit."

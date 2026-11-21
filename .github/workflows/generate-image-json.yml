@@ -1,0 +1,84 @@
+name: Generate Wallpaper Data
+
+on:
+  workflow_dispatch:
+
+  push:
+    paths:
+      - "wallpapers/**"
+      - "scripts/**"
+      - "tags.json"
+      - "package.json"
+
+concurrency:
+  # All catalog-writing workflows share one group, so only one of them can be
+  # committing at a time. Without this, parallel runs race on git push and every
+  # loser fails the job - and a failed job emails the repository owner.
+  group: catalog-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate thumbnails
+        run: npm run generate-thumbnails
+
+      - name: Generate JSON
+        run: npm run generate-images-json
+        env:
+          GITHUB_BRANCH: main
+
+      # Fail the build instead of committing an index that violates the
+      # published contract (see SCHEMA.md). This is the guard that stops a
+      # silent breaking change from reaching clients.
+      - name: Validate generated JSON
+        run: node scripts/validate-images-json.js
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add images.json
+          git add tags-index.json
+          git add thumbnails/
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Several runs can start at once when pushes arrive together. Rather
+          # than failing the job on a rejected push - which emails the repo owner
+          # every time - rebuild the commit on top of the current remote head and
+          # retry. Generated files are authoritative, so they win.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --soft origin/main
+            git commit -m "Auto-update wallpaper data [skip ci]"
+            if git push origin HEAD:main; then
+              echo "Pushed on attempt $attempt"
+              exit 0
+            fi
+            echo "Push rejected, retrying (attempt $attempt)"
+            sleep $((attempt * 3))
+          done
+
+          echo "::error::Could not push after 5 attempts"
+          exit 1

@@ -1,0 +1,66 @@
+name: Fix TanStack Start advisory (CVE-2026-102989)
+
+# Updates docs/package-lock.json to versions that are not affected by
+# CVE-2026-102989 / GHSA-qx66-fv34-fjm8, then commits the result.
+#
+# Why this runs in Actions instead of locally: the dependency cascade from
+# @tanstack/react-start 1.168.58 -> 1.168.60 pulls a chain of exact-pinned
+# @tanstack/* packages, so the lockfile has to be re-resolved properly rather
+# than hand-edited. That needs a few GB of RAM.
+#
+# The commit is refused unless BOTH affected packages clear their patched
+# version, which is what the verify step enforces.
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  # All catalog-writing workflows share one group, so only one of them can be
+  # committing at a time. Without this, parallel runs race on git push and every
+  # loser fails the job - and a failed job emails the repository owner.
+  group: catalog-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Show current resolved versions
+        working-directory: docs
+        run: node scripts/check-tanstack-advisory.mjs || true
+
+      - name: Re-resolve lockfile onto patched versions
+        working-directory: docs
+        run: npm install --package-lock-only --no-audit --no-fund "@tanstack/react-start@^1.169.4"
+
+      - name: Verify the advisory is actually cleared
+        working-directory: docs
+        run: node scripts/check-tanstack-advisory.mjs
+
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add docs/package.json docs/package-lock.json
+          if git diff --cached --quiet; then
+            echo "No lockfile change needed."
+            exit 0
+          fi
+          git commit \
+            -m "fix(deps): patch CVE-2026-102989 in @tanstack/react-start" \
+            -m "Reflected XSS in TanStack Start server-function responses (GHSA-qx66-fv34-fjm8, CVSS 9.3). The lockfile pinned @tanstack/react-start 1.168.58 and @tanstack/start-server-core 1.169.37, both inside the affected ranges." \
+            -m "Re-resolved so @tanstack/react-start >= 1.168.60 and @tanstack/start-server-core >= 1.169.39."
+          git push
