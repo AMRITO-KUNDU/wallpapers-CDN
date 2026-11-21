@@ -5,7 +5,7 @@ export const REPO_URL = "https://github.com/AMRITO-KUNDU/wallpapers-CDN";
 export const REPO_SLUG = "AMRITO-KUNDU/wallpapers-CDN";
 
 export const JSON_CDN_URL =
-  "https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/images.json";
+  "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/images.json";
 export const JSON_GITHUB_URL =
   "https://raw.githubusercontent.com/AMRITO-KUNDU/wallpapers-CDN/main/images.json";
 

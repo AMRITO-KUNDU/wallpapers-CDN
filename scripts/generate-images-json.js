@@ -6,8 +6,10 @@ const SOURCE_DIR = "wallpapers";
 const REPO = process.env.GITHUB_REPOSITORY || "AMRITO-KUNDU/wallpapers-CDN";
 const BRANCH = process.env.GITHUB_REF_NAME || process.env.GITHUB_BRANCH || "main";
 
-const BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}/${SOURCE_DIR}`;
-const THUMBNAIL_BASE_URL = `https://cdn.jsdelivr.net/gh/${REPO}@${BRANCH}/thumbnails`;
+// raw.githubusercontent.com has no package-size limit, unlike jsDelivr's 50 MB
+// cap on GitHub repos. Simple, and it always serves.
+const BASE_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${SOURCE_DIR}`;
+const THUMBNAIL_BASE_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/thumbnails`;
 
 // Hand-edited: wallpaper id -> comma-separated tags. Never written by this script.
 const TAGS_FILE = "tags.json";
