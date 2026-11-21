@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { execSync } = require("child_process");
 const path = require("path");
 const sharp = require("sharp");
 
@@ -6,10 +7,28 @@ const SOURCE_DIR = "wallpapers";
 const REPO = process.env.GITHUB_REPOSITORY || "AMRITO-KUNDU/wallpapers-CDN";
 const BRANCH = process.env.GITHUB_REF_NAME || process.env.GITHUB_BRANCH || "main";
 
-// raw.githubusercontent.com has no package-size limit, unlike jsDelivr's 50 MB
-// cap on GitHub repos. Simple, and it always serves.
-const BASE_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${SOURCE_DIR}`;
-const THUMBNAIL_BASE_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/thumbnails`;
+// jsDelivr refuses files it has not already cached once a GitHub repo is over
+// its 50 MB package limit - and it applies that check when resolving a *branch*.
+// Pinning to the commit that last touched a file skips the check entirely and
+// still gives you the CDN edge cache, so every file serves.
+//
+// Each record also carries a raw.githubusercontent.com fallback, which has no
+// size limit at all, so a client can retry there if jsDelivr ever misses.
+const JSDELIVR = (ref, dir) => `https://cdn.jsdelivr.net/gh/${REPO}@${ref}/${dir}`;
+const RAW = (dir) => `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${dir}`;
+
+/** Last commit that touched this file - a stable, immutable jsDelivr ref. */
+function pinnedRef(filePath) {
+  try {
+    const sha = execSync(`git log -1 --format=%H -- "${filePath}"`, {
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"]
+    }).trim();
+    return sha || BRANCH;
+  } catch {
+    return BRANCH;
+  }
+}
 
 // Hand-edited: wallpaper id -> comma-separated tags. Never written by this script.
 const TAGS_FILE = "tags.json";
@@ -213,6 +232,9 @@ async function processCategory(category, categoryPath) {
 
     const sidecar = loadSidecar(filePath);
     const id = generateId(category, filePath);
+    const ref = pinnedRef(filePath);
+    const imagePath = `${encodeURIComponent(category)}/${encodeURIComponent(entry.name)}`;
+    const thumbPath = `${encodeURIComponent(category)}/${encodeURIComponent(path.parse(entry.name).name)}.webp`;
     const fallbackName = path.parse(entry.name).name
       .replace(/[_-]/g, " ")
       .replace(/\b\w/g, l => l.toUpperCase());
@@ -227,8 +249,12 @@ async function processCategory(category, categoryPath) {
       id: id,
       name: name,
       category: category.toLowerCase(),
-      url: `${BASE_URL}/${encodeURIComponent(category)}/${encodeURIComponent(entry.name)}`,
-      thumbnail: `${THUMBNAIL_BASE_URL}/${encodeURIComponent(category)}/${encodeURIComponent(path.parse(entry.name).name)}.webp`,
+      url: `${JSDELIVR(ref, SOURCE_DIR)}/${imagePath}`,
+      thumbnail: `${JSDELIVR(ref, "thumbnails")}/${thumbPath}`,
+      fallback: {
+        url: `${RAW(SOURCE_DIR)}/${imagePath}`,
+        thumbnail: `${RAW("thumbnails")}/${thumbPath}`
+      },
       width: metadata.width,
       height: metadata.height,
       orientation: orientation,

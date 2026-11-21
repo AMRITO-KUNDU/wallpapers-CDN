@@ -27,6 +27,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Full history: the generator pins each jsDelivr URL to the commit
+          # that last touched that file, which needs git log to see them all.
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4

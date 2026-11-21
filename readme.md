@@ -20,13 +20,29 @@ const abstract = catalog.filter(w => w.category === "abstract");
 
 Works from Flutter, React Native, web or a shell script — it is just JSON over HTTPS.
 
-### Why raw GitHub and not jsDelivr
+### Image URLs
 
-jsDelivr refuses files it has not already cached once a GitHub repo exceeds its
-50 MB package limit, which this repo did. `raw.githubusercontent.com` has no such
-limit, so it always serves. If you want the CDN, the same paths work at
-`https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@main/...` — but expect
-some files to 403 until the repo is small enough.
+Images are served from jsDelivr, pinned to the commit that last touched each
+file:
+
+```
+https://cdn.jsdelivr.net/gh/AMRITO-KUNDU/wallpapers-CDN@<sha>/wallpapers/...
+```
+
+The pin is what makes it work. jsDelivr refuses files it has not cached once a
+repo passes its 50 MB package limit, and it applies that check when resolving a
+branch such as `@main` — but not a commit. Pinning skips the check and keeps the
+edge cache, and because the ref only moves when the file changes, the URL stays
+stable.
+
+jsDelivr still refuses a small number of files on this repo, so every record
+carries a `fallback` on `raw.githubusercontent.com`, which has no size limit:
+
+```json
+"fallback": { "url": "...", "thumbnail": "..." }
+```
+
+Use `url` / `thumbnail`, and retry `fallback` if the request fails.
 
 ## Structure
 

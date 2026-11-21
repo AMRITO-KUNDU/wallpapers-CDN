@@ -23,6 +23,7 @@ treat a change here as an API change, not an internal refactor.
 | `format`      | string            | `"jpg"`, `"png"`, `"webp"`, or `"gif"`.                      |
 | `tags`        | string[]          | Lowercase search tags. **Always includes `category`.** More come from a sidecar or `tags.json`. |
 | `credit`      | object \| absent  | Optional provenance: `{ author, license, source, url, licenseUrl, changes }`. Present on imported images. |
+| `fallback`    | object \| absent  | `{ url, thumbnail }` on raw.githubusercontent.com, for when the CDN refuses a file. |
 
 ## Invariants
 
@@ -146,6 +147,28 @@ The importer preserves attribution metadata but cannot independently verify
 every rights claim. Pexels, Unsplash, and Pixabay are not used because their
 catalog terms do not permit compiling their libraries into a competing
 wallpaper service.
+
+## Image URLs and fallback
+
+`url` and `thumbnail` are jsDelivr URLs pinned to the commit that last touched
+the file, e.g. `.../gh/OWNER/REPO@<sha>/wallpapers/...`. The pin matters: jsDelivr
+refuses files it has not cached once a repo passes its 50 MB package limit, and
+it applies that check when resolving a branch like `@main` but not a commit. A
+pinned ref therefore serves reliably, and because the ref only changes when the
+file itself changes, the URL stays stable.
+
+Some files are still refused occasionally, so every record also carries
+`fallback`:
+
+```json
+"fallback": {
+  "url": "https://raw.githubusercontent.com/OWNER/REPO/main/wallpapers/...",
+  "thumbnail": "https://raw.githubusercontent.com/OWNER/REPO/main/thumbnails/..."
+}
+```
+
+Clients should use `url`/`thumbnail` and retry `fallback` on error. The fallback
+host has no size limit, so it always serves.
 
 ## Client guidance
 

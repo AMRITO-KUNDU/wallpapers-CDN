@@ -495,6 +495,12 @@
       image.width = record.width || 300;
       image.height = record.height || 650;
       image.src = record.thumbnail || record.url;
+      // jsDelivr refuses some files on this repo (its 50 MB package gate);
+      // every record carries a raw.githubusercontent fallback for that case.
+      image.onerror = function () {
+        var alt = record.fallback && (record.fallback.thumbnail || record.fallback.url);
+        if (alt && image.src !== alt) image.src = alt;
+      };
       var meta = document.createElement("span");
       meta.className = "card-meta";
       meta.innerHTML = "<b>" + esc(record.name || "Untitled") + "</b><span>" + esc(label(record.category)) + "</span>";
@@ -556,6 +562,10 @@
       previousFocus = el.viewer.classList.contains("on") ? previousFocus : document.activeElement;
       el.vTitle.textContent = record.name || "Untitled";
       el.vImg.src = record.url;
+      el.vImg.onerror = function () {
+        var alt = record.fallback && record.fallback.url;
+        if (alt && el.vImg.src !== alt) el.vImg.src = alt;
+      };
       el.vImg.alt = record.name || "";
       el.vOpen.href = record.url;
       el.vDl.href = record.url;
