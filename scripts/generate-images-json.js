@@ -38,15 +38,17 @@ const TAGS_INDEX_FILE = "tags-index.json";
 const SUPPORTED_EXTENSIONS = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif"]);
 
 function generateId(category, filePath) {
-  // Create a stable ID from category and filename to avoid collisions
-  const basename = path.basename(filePath);
-  const withoutExt = path.parse(basename).name;
+  // Files are named <category>-<description>-<nn>, so the stem is already
+  // namespaced. Only add the category when it is missing, which keeps the id
+  // readable instead of turning it into "abstract-abstract-...".
   const categoryPart = category.toLowerCase();
-  const namePart = withoutExt
-    .toLowerCase()
+  const namePart = path
+    .parse(path.basename(filePath))
+    .name.toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "");
-  return `${categoryPart}-${namePart}`;
+
+  return namePart.startsWith(`${categoryPart}-`) ? namePart : `${categoryPart}-${namePart}`;
 }
 
 function getOrientation(width, height) {
