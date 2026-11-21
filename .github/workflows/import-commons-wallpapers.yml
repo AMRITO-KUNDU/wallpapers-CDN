@@ -45,7 +45,7 @@ jobs:
           IMPORT_LIMIT: ${{ github.event.inputs.limit || '50' }}
           IMPORT_TARGET_TOTAL: "2000"
           # Keeps the catalog balanced: no category grows past this.
-          IMPORT_MAX_PER_CATEGORY: "50"
+          IMPORT_MAX_PER_CATEGORY: "12"
           IMPORT_QUERIES: ${{ github.event.inputs.queries || '' }}
           IMPORT_CATEGORY: ${{ github.event.inputs.category || 'Nature' }}
         run: npm run import-wallpapers
